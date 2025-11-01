@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://www.open-epg.com/files/taiwan2.xml.gz"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
 
