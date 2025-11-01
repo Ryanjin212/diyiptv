@@ -3,38 +3,73 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://raw.githubusercontent.com/Ryanjin212/zuboiptv/refs/heads/main/newudp.m3u
 
-#EXTINF:-1 group-title="IPTV",CCTV9
-http://192.168.50.1:7575/udp/239.49.8.53:9814
 
-#EXTINF:-1 group-title="IPTV",睛彩竞技
-http://192.168.50.1:7575/udp/239.49.8.39:8000
 
-#EXTINF:-1 group-title="IPTV",睛彩篮球
-http://192.168.50.1:7575/udp/239.49.8.42:8000
-
-#EXTINF:-1 group-title="IPTV",睛彩青少
-http://192.168.50.1:7575/udp/239.49.8.46:8000
-
-#EXTINF:-1 group-title="IPTV",睛彩广场舞
-http://192.168.50.1:7575/udp/239.49.8.64:8000
-
-#EXTINF:-1 group-title="IPTV",快乐垂钓
-http://192.168.50.1:7575/udp/239.49.0.114:8000
-
-#EXTINF:-1 group-title="IPTV",茶
-http://192.168.50.1:7575/udp/239.49.0.146:8000
-
-#EXTINF:-1 group-title="IPTV",梨园
-http://192.168.50.1:7575/udp/239.49.8.193:8000
-
-#EXTINF:-1 group-title="IPTV",武术世界
-http://192.168.50.1:7575/udp/239.49.0.205:8000
-
-#EXTINF:-1 group-title="IPTV",文物宝库
-http://192.168.50.1:7575/udp/239.49.0.209:8000
 
 #EXTINF:-1 group-title="IPTV" tvg-id="CCTV16",CCTV16 4K
 http://192.168.50.1:7575/udp/239.49.0.109:8000
+
+
+
+#EXTINF:-1 group-title="IPTV",CCTV1
+http://192.168.50.1:7575/udp/239.49.8.19:9614
+
+#EXTINF:-1 group-title="IPTV",CCTV2
+http://192.168.50.1:7575/udp/239.49.8.50:9802
+
+#EXTINF:-1 group-title="IPTV",CCTV3
+http://192.168.50.1:7575/udp/239.49.8.74:8000
+
+#EXTINF:-1 group-title="IPTV",CCTV4
+http://192.168.50.1:7575/udp/239.49.8.51:9806
+
+#EXTINF:-1 group-title="IPTV",CCTV5
+http://192.168.50.1:7575/udp/239.49.8.75:8000
+
+
+#EXTINF:-1 group-title="IPTV",CCTV5+
+http://192.168.50.1:7575/udp/239.49.8.18:9610
+
+
+#EXTINF:-1 group-title="IPTV",CCTV6
+http://192.168.50.1:7575/udp/239.49.8.76:8000
+
+#EXTINF:-1 group-title="IPTV",CCTV7
+http://192.168.50.1:7575/udp/239.49.0.126:8000
+
+#EXTINF:-1 group-title="IPTV",CCTV8
+http://192.168.50.1:7575/udp/239.49.8.77:8000
+
+#EXTINF:-1 group-title="IPTV",CCTV9
+http://192.168.50.1:7575/udp/239.49.8.53:9814
+
+
+#EXTINF:-1 group-title="IPTV",CCTV10
+http://192.168.50.1:7575/udp/239.49.8.54:9818
+
+#EXTINF:-1 group-title="IPTV",CCTV11
+http://192.168.50.1:7575/udp/239.49.0.127:8000
+
+#EXTINF:-1 group-title="IPTV",CCTV12
+http://192.168.50.1:7575/udp/239.49.8.55:9822
+
+#EXTINF:-1 group-title="IPTV",CCTV13
+http://192.168.50.1:7575/udp/239.49.8.109:8000
+
+#EXTINF:-1 group-title="IPTV",CCTV14
+http://192.168.50.1:7575/udp/239.49.8.56:9826
+
+#EXTINF:-1 group-title="IPTV",CCTV15
+http://192.168.50.1:7575/udp/239.49.0.128:8000
+
+#EXTINF:-1 group-title="IPTV",CCTV16
+http://192.168.50.1:7575/udp/239.49.8.31:8000
+
+#EXTINF:-1 group-title="IPTV",CCTV17
+http://192.168.50.1:7575/udp/239.49.8.52:9810
+
+#EXTINF:-1 group-title="IPTV",CGTN俄语
+http://192.168.50.1:7575/udp/239.49.0.111:8000
 
 #EXTINF:-1 group-title="IPTV" tvg-id="江苏卫视",江苏卫视 4K
 http://192.168.50.1:7575/udp/239.49.1.61:8000
@@ -74,60 +109,6 @@ http://192.168.50.1:7575/udp/239.49.1.71:8000
 
 #EXTINF:-1 group-title="IPTV" tvg-id="江苏卫视",江苏卫视 4K
 http://192.168.50.1:7575/udp/239.49.1.62:8000
-
-#EXTINF:-1 group-title="IPTV",CCTV1
-http://192.168.50.1:7575/udp/239.49.8.19:9614
-
-#EXTINF:-1 group-title="IPTV",CCTV2
-http://192.168.50.1:7575/udp/239.49.8.50:9802
-
-#EXTINF:-1 group-title="IPTV",CCTV3
-http://192.168.50.1:7575/udp/239.49.8.74:8000
-
-#EXTINF:-1 group-title="IPTV",CCTV4
-http://192.168.50.1:7575/udp/239.49.8.51:9806
-
-#EXTINF:-1 group-title="IPTV",CCTV5
-http://192.168.50.1:7575/udp/239.49.8.75:8000
-
-#EXTINF:-1 group-title="IPTV",CCTV6
-http://192.168.50.1:7575/udp/239.49.8.76:8000
-
-#EXTINF:-1 group-title="IPTV",CCTV7
-http://192.168.50.1:7575/udp/239.49.0.126:8000
-
-#EXTINF:-1 group-title="IPTV",CCTV8
-http://192.168.50.1:7575/udp/239.49.8.77:8000
-
-#EXTINF:-1 group-title="IPTV",CCTV10
-http://192.168.50.1:7575/udp/239.49.8.54:9818
-
-#EXTINF:-1 group-title="IPTV",CCTV11
-http://192.168.50.1:7575/udp/239.49.0.127:8000
-
-#EXTINF:-1 group-title="IPTV",CCTV12
-http://192.168.50.1:7575/udp/239.49.8.55:9822
-
-#EXTINF:-1 group-title="IPTV",CCTV13
-http://192.168.50.1:7575/udp/239.49.8.109:8000
-
-#EXTINF:-1 group-title="IPTV",CCTV14
-http://192.168.50.1:7575/udp/239.49.8.56:9826
-
-#EXTINF:-1 group-title="IPTV",CCTV音乐
-http://192.168.50.1:7575/udp/239.49.0.128:8000
-
-#EXTINF:-1 group-title="IPTV",CCTV16
-http://192.168.50.1:7575/udp/239.49.8.31:8000
-
-#EXTINF:-1 group-title="IPTV",CCTV17
-http://192.168.50.1:7575/udp/239.49.8.52:9810
-
-#EXTINF:-1 group-title="IPTV",CCTV5
-http://192.168.50.1:7575/udp/239.49.8.18:9610
-
-#EXTINF:-1 group-title="IPTV",CGTN俄语
-http://192.168.50.1:7575/udp/239.49.0.111:8000
 
 #EXTINF:-1 group-title="IPTV",江苏卫视
 http://192.168.50.1:7575/udp/239.49.8.16:9602
@@ -308,3 +289,30 @@ http://192.168.50.1:7575/udp/239.49.8.82:8000
 
 #EXTINF:-1 group-title="IPTV",4K
 http://192.168.50.1:7575/udp/239.49.8.38:8000
+
+#EXTINF:-1 group-title="IPTV",睛彩竞技
+http://192.168.50.1:7575/udp/239.49.8.39:8000
+
+#EXTINF:-1 group-title="IPTV",睛彩篮球
+http://192.168.50.1:7575/udp/239.49.8.42:8000
+
+#EXTINF:-1 group-title="IPTV",睛彩青少
+http://192.168.50.1:7575/udp/239.49.8.46:8000
+
+#EXTINF:-1 group-title="IPTV",睛彩广场舞
+http://192.168.50.1:7575/udp/239.49.8.64:8000
+
+#EXTINF:-1 group-title="IPTV",快乐垂钓
+http://192.168.50.1:7575/udp/239.49.0.114:8000
+
+#EXTINF:-1 group-title="IPTV",茶
+http://192.168.50.1:7575/udp/239.49.0.146:8000
+
+#EXTINF:-1 group-title="IPTV",梨园
+http://192.168.50.1:7575/udp/239.49.8.193:8000
+
+#EXTINF:-1 group-title="IPTV",武术世界
+http://192.168.50.1:7575/udp/239.49.0.205:8000
+
+#EXTINF:-1 group-title="IPTV",文物宝库
+http://192.168.50.1:7575/udp/239.49.0.209:8000
