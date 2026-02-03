@@ -75,6 +75,10 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
 https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s4/playlist.m3u8
 #EXTINF:-1 tvg-id="TV조선.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General",TV조선
 https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/chunklist.m3u8
+#EXTINF:-1 tvg-id="TV조선.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General",TV조선
+https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s2/playlist.m3u8
+#EXTINF:-1 tvg-id="TV조선.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General",TV조선
+https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCHOSUN2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",TV조선2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s4/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCHOSUN2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",TV조선2
