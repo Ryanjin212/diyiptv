@@ -66,7 +66,7 @@ https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC Chuncheon" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="MBN.kr" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" group-title="未分类",MBN
-https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https://hls-live.mbn.co.kr/mbn-on-air/1000k/playlist.m3u8
+https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8
 #EXTINF:-1 tvg-id="MBN.kr" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" group-title="未分类",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://imgur.com/fCruRmS" group-title="General",JTBC
