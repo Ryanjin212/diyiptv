@@ -120,26 +120,28 @@ http://mytv.dothome.co.kr/ch/catv/1.php
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 #EXTINF:-1 tvg-id="MBC M.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MBC_M_logo.svg" group-title="Series",MBC M
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
+#EXTINF:-1 tvg-id="MBC M.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MBC_M_logo.svg" group-title="Series",MBC M
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_247_E2F92158.m3u8
 #EXTINF:-1 tvg-id="MBC Dramanet.kr" tvg-logo="https://i.imgur.com/Q20rqnX.png" group-title="Series",MBC 드라마
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_8F4B0879.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.kr" tvg-logo="https://i.imgur.com/Q20rqnX.png" group-title="Series",MBC 드라마 [Geo-blocked]
 http://192.168.50.19/kr.php?id=26
 #EXTINF:-1 tvg-id="MBC Every1.kr" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="Entertainment",MBC에브리원
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_07429BC5.m3u8
 #EXTINF:-1 tvg-id="MBCEvery1.kr" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="Undefined",MBC에브리원
 https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
 #EXTINF:-1 tvg-id="MBC Net.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Undefined",MBC Net [Geo-blocked]
-http://192.168.50.19/kr.php?id=28
+http://192.168.50.19/kr.php?id=28_380093DD
 #EXTINF:-1 tvg-id="MBC Net.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Undefined",MBC Net [Geo-blocked]
 http://mytv.dothome.co.kr/ch/catv/28.php
 #EXTINF:-1 tvg-id="SBS Plus.kr" tvg-logo="https://i.imgur.com/Tf17nIu.png" group-title="General",SBS Plus
 http://192.168.50.19/kr.php?id=31_F529EBD1
 #EXTINF:-1 tvg-id="SBS funE.kr" tvg-logo="https://i.imgur.com/nmQKFDJ.jpg" group-title="General",SBSFunE
-http://192.168.50.19/kr.php?id=32
+http://192.168.50.19/kr.php?id=32_4E8875E1
 #EXTINF:-1 tvg-id="SBS LIFE.kr" tvg-logo="https://i.namu.wiki/i/Wi7m3U1sFyBGs6KrnC6ALHIz7Yrqih0dS8v91B6-HHixieWVDtvQGBhE6KQK6DK5a295cq7KP4vTKZBJ9q2pXysFIZPxF_mujrNqS6-IDoZ9_iL0KVCYw-hr5SHULdiUMzvJI_cPPg7KJ30C0F9oPg.webp" group-title="General",SBS Life
-http://192.168.50.19/kr.php?id=37
+http://192.168.50.19/kr.php?id=37_482C7FB9
 #EXTINF:-1 tvg-id="SBS Biz.kr" tvg-logo="https://i.imgur.com/gwA98UT.png" group-title="未分类",SBS Biz
-http://192.168.50.19/kr.php?id=34
+http://192.168.50.19/kr.php?id=34_CD2A32B9
 #EXTINF:-1 tvg-id="OBS.kr" tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="General",OBS
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_55.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="Undefined",TBS서울
