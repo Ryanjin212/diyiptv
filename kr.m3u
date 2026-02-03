@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="General",KBS1
 https://www.hwado.net/webtv/public/1_EA49B3B2.php
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/I4Z8R02.jpg" group-title="General",KBS1
-http://192.168.50.19/kr.php?id=1_EA49B3B2
+http://192.168.50.19/kbs.php?id=11
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/co5JP79.png" group-title="General",KBS1
 http://192.168.50.19/kr.php?id=11_087155E9
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/OHHrLqv.png" group-title="General",KBS1
@@ -18,7 +18,7 @@ http://192.168.50.19/kr.php?id=14_ECE1A251
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/2f6W60P.png" group-title="General",KBS1
 http://192.168.50.19/kr.php?id=15_6B9253F0
 #EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="General",KBS2
-http://mytv.dothome.co.kr/ch/public/3.php
+http://192.168.50.19/kbs.php?id=12
 #EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="General",KBS2
 http://192.168.50.19/kr.php?id=3_2C9275B7
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="SBS" tvg-logo="https://i.imgur.com/QLU1hem.png" group-title="General",SBS
