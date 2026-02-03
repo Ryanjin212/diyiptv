@@ -34,8 +34,6 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="JIBS SBS" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="General",SBS
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="JIBS SBS" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="General",SBS
-EXTINF:-1%20tvg-id=%22SBS.kr%22%20tvg-name=%22KBC%20SBS%22%20tvg-logo=%22https://i.imgur.com/iAz0Psw.png%22%20group-title=%22General%22,SBS
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="JIBS SBS" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="General",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",MBC
 http://192.168.50.19/kr.php?id=24_F1BFA250
