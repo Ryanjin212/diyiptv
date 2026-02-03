@@ -101,6 +101,10 @@ http://192.168.50.19/kbs.php?id=N91
 http://192.168.50.19/kbs.php?id=N93
 #EXTINF:-1 tvg-id="KBS Joy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="未分类",KBS Joy
 http://192.168.50.19/kbs.php?id=N92
+#EXTINF:-1 tvg-id="KBS Joy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="未分类",KBS Joy
+http://www.hwado.net/webtv/catv/3_39C33D26.php
+
+
 #EXTINF:-1 tvg-id="KBS Story.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="未分类",KBS Story
 http://192.168.50.19/kbs.php?id=N94
 #EXTINF:-1 tvg-id="KBS Kids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="Kids",KBS키즈
