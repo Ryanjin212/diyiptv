@@ -6,25 +6,25 @@
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="General",KBS1
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/I4Z8R02.jpg" group-title="General",KBS1
-http://webhost.ocnlava.dpdns.org/kr.php?id=1
+http://192.168.50.19/kr.php?id=1
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/co5JP79.png" group-title="General",KBS1
-http://webhost.ocnlava.dpdns.org/kr.php?id=11
+http://192.168.50.19/kr.php?id=11
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/OHHrLqv.png" group-title="General",KBS1
-http://webhost.ocnlava.dpdns.org/kr.php?id=12
+http://192.168.50.19/kr.php?id=12
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/EMVWCh0.png" group-title="General",KBS1
-http://webhost.ocnlava.dpdns.org/kr.php?id=13
+http://192.168.50.19/kr.php?id=13
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/uKLgVLZ.png" group-title="General",KBS1
-http://webhost.ocnlava.dpdns.org/kr.php?id=14
+http://192.168.50.19/kr.php?id=14
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/2f6W60P.png" group-title="General",KBS1
-http://webhost.ocnlava.dpdns.org/kr.php?id=15
+http://192.168.50.19/kr.php?id=15
 #EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="General",KBS2
 http://mytv.dothome.co.kr/ch/public/3.php
 #EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="General",KBS2
-http://webhost.ocnlava.dpdns.org/kr.php?id=3
+http://192.168.50.19/kr.php?id=3
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="SBS" tvg-logo="https://i.imgur.com/QLU1hem.png" group-title="General",SBS
 https://tvlive.sbs.co.kr/sbsch6/sbsch60.stream/chunklist.m3u
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="SBS" tvg-logo="https://i.imgur.com/QLU1hem.png" group-title="General",SBS
-http://webhost.ocnlava.dpdns.org/kr.php?id=31_0B41417D
+http://192.168.50.19/kr.php?id=31_0B41417D
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="KNN SBS" tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="General",SBS
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="G1 SBS" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="General",SBS
@@ -40,7 +40,7 @@ EXTINF:-1%20tvg-id=%22SBS.kr%22%20tvg-name=%22KBC%20SBS%22%20tvg-logo=%22https:/
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="JIBS SBS" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="General",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",MBC
-http://webhost.ocnlava.dpdns.org/kr.php?id=24_F1BFA250
+http://192.168.50.19/kr.php?id=24_F1BFA250
 #EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",MBC
 http://www.hwado.net/webtv/catv/503_CFEA7803.php
 #EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="General",MBC
@@ -120,23 +120,23 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
 #EXTINF:-1 tvg-id="MBC Dramanet.kr" tvg-logo="https://i.imgur.com/Q20rqnX.png" group-title="Series",MBC 드라마
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.kr" tvg-logo="https://i.imgur.com/Q20rqnX.png" group-title="Series",MBC 드라마 [Geo-blocked]
-http://webhost.ocnlava.dpdns.org/kr.php?id=26
+http://192.168.50.19/kr.php?id=26
 #EXTINF:-1 tvg-id="MBC Every1.kr" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="Entertainment",MBC에브리원
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
 #EXTINF:-1 tvg-id="MBCEvery1.kr" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="Undefined",MBC에브리원
 https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
 #EXTINF:-1 tvg-id="MBC Net.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Undefined",MBC Net [Geo-blocked]
-http://webhost.ocnlava.dpdns.org/kr.php?id=28
+http://192.168.50.19/kr.php?id=28
 #EXTINF:-1 tvg-id="MBC Net.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Undefined",MBC Net [Geo-blocked]
 http://mytv.dothome.co.kr/ch/catv/28.php
 #EXTINF:-1 tvg-id="SBS Plus.kr" tvg-logo="https://i.imgur.com/Tf17nIu.png" group-title="General",SBS Plus
-http://webhost.ocnlava.dpdns.org/kr.php?id=31
+http://192.168.50.19/kr.php?id=31
 #EXTINF:-1 tvg-id="SBS funE.kr" tvg-logo="https://i.imgur.com/nmQKFDJ.jpg" group-title="General",SBSFunE
-http://webhost.ocnlava.dpdns.org/kr.php?id=32
+http://192.168.50.19/kr.php?id=32
 #EXTINF:-1 tvg-id="SBS LIFE.kr" tvg-logo="https://i.namu.wiki/i/Wi7m3U1sFyBGs6KrnC6ALHIz7Yrqih0dS8v91B6-HHixieWVDtvQGBhE6KQK6DK5a295cq7KP4vTKZBJ9q2pXysFIZPxF_mujrNqS6-IDoZ9_iL0KVCYw-hr5SHULdiUMzvJI_cPPg7KJ30C0F9oPg.webp" group-title="General",SBS Life
-http://webhost.ocnlava.dpdns.org/kr.php?id=37
+http://192.168.50.19/kr.php?id=37
 #EXTINF:-1 tvg-id="SBS Biz.kr" tvg-logo="https://i.imgur.com/gwA98UT.png" group-title="未分类",SBS Biz
-http://webhost.ocnlava.dpdns.org/kr.php?id=34
+http://192.168.50.19/kr.php?id=34
 #EXTINF:-1 tvg-id="OBS.kr" tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="General",OBS
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_55.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="Undefined",TBS서울
@@ -176,7 +176,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
 #EXTINF:-1 tvg-logo="28.1" group-title="未分类",New Kids 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IFLXi6n.png" group-title="Music",THE K-POP
-http://webhost.ocnlava.dpdns.org/kr.php?id=33
+http://192.168.50.19/kr.php?id=33
 #EXTINF:-1 group-title="Music",Kpop
 https://tvlive.sbs.co.kr/sbskpop/sbskpop0.stream/chunklist.m3u
 #EXTINF:-1 group-title="Music",Kpop
@@ -228,9 +228,9 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 group-title="未分类",K-Story
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_265_C8B3D838.m3u8
 #EXTINF:-1 tvg-id="SBS Sports.kr" tvg-logo="https://i.imgur.com/L2SdLkb.png" group-title="한국",SBS Sports
-http://webhost.ocnlava.dpdns.org/kr.php?id=35
+http://192.168.50.19/kr.php?id=35
 #EXTINF:-1 tvg-id="SBSGOLF.kr" tvg-name="SBSGOLF" tvg-logo="https://i.imgur.com/XG8yYm4.jpg" group-title="Sport",SBS골프
-http://webhost.ocnlava.dpdns.org/kr.php?id=36
+http://192.168.50.19/kr.php?id=36
 #EXTINF:-1 tvg-id="JTBC Golf.kr" tvg-logo="https://i.imgur.com/16Ag0yL.png" group-title="Sport",JTBC Golf
 http://www.hwado.net/webtv/catv/56.php
 #EXTINF:-1 tvg-id="JTBC GOLFandSPORTS.kr" tvg-logo="https://i.imgur.com/16Ag0yL.png" group-title="Sport",JTBC Golf&Sports
