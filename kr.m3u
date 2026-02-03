@@ -4,7 +4,7 @@
 #EXT-X-SUB-URL https://raw.githubusercontent.com/Ryanjin212/zuboiptv/refs/heads/main/kr.m3u
 
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="General",KBS1
-http://mytv.dothome.co.kr/ch/public/1.php
+https://www.hwado.net/webtv/public/1_EA49B3B2.php
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/I4Z8R02.jpg" group-title="General",KBS1
 http://192.168.50.19/kr.php?id=1_EA49B3B2
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/co5JP79.png" group-title="General",KBS1
