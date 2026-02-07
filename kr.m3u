@@ -69,7 +69,7 @@ https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8
 #EXTINF:-1 tvg-id="MBN.kr" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" group-title="未分类",MBN
-http://freese.cn.220123.xyz/kr.php?id=54_3D17698E.php
+http://freese.cn.220123.xyz/kr.php?id=54_3D17698E
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://imgur.com/fCruRmS" group-title="General",JTBC
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
 #EXTINF:-1 tvg-id="TV조선.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General",TV조선
