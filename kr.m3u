@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-kr.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/korea1.xml.gz"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://raw.githubusercontent.com/Ryanjin212/zuboiptv/refs/heads/main/kr.m3u
