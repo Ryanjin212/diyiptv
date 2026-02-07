@@ -97,7 +97,7 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s1/playlist.m3u8
 http://dpstream.qzz.io/kbs.php?id=81
 #EXTINF:-1 tvg-id="KBS Drama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Series",KBS Drama
 #EXTVLCOPT:http-referrer=https://dpstream.qzz.io/
-http://dpstream.qzz.io/kbs.php?id=N91
+http://dpstream.qzz.io/kbs.php?id=N91&ua=Mozilla/5.0
 #EXTINF:-1 tvg-id="KBS LIFE.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="未分类",KBS LIFE
 http://dpstream.qzz.io/kbs.php?id=N93
 #EXTINF:-1 tvg-id="KBS Joy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="未分类",KBS Joy
