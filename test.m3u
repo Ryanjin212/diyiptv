@@ -1,1 +1,7 @@
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-kr.xml"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://raw.githubusercontent.com/Ryanjin212/zuboiptv/refs/heads/main/kr.m3u
+
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="General",KBS1
 https://k227.jk-cdn.com/playlist/live.m3u8?sid=BFKAPW38tKNJPFTdQ7Iw7e3oTXidTfFzNPmOnTcA&secret=ade363ecab90783420b3759cfe934515&time=1770483644
