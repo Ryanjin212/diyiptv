@@ -95,7 +95,7 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png" group-title="General",KBS NEWS 24
 http://kr.kbstream.dpdns.org/kbs.php?id=81
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png" group-title="General",KBS NEWS 24
-http://www.hwado.net/webtv/catv/1_5FA37789.php
+http://kr.kbstream.dpdns.org/kr.php?id=1_5FA37789
 
 #EXTINF:-1 tvg-id="KBS Drama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Series",KBS Drama
 http://kr.kbstream.dpdns.org/kbs.php?id=N91
