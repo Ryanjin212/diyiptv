@@ -118,7 +118,7 @@ http://kr.kbstream.dpdns.org/kbs.php?id=N96
 #EXTINF:-1 tvg-id="KBS World" tvg-logo="https://i.imgur.com/ctDyFhV.png" group-title="Series",KBS World
 http://kr.kbstream.dpdns.org/kbs.php?id=N14
 #EXTINF:-1 tvg-id="KBS World" tvg-logo="https://i.imgur.com/ctDyFhV.png" group-title="Series",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+http://kr.kbstream.dpdns.org/kr.php?id=7_A9D3B425
 #EXTINF:-1 tvg-id="KBS World" tvg-logo="https://i.imgur.com/ctDyFhV.png" group-title="Series",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="KBS World" tvg-logo="https://i.imgur.com/ctDyFhV.png" group-title="Series",KBS World
