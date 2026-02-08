@@ -4,9 +4,9 @@
 #EXT-X-SUB-URL https://raw.githubusercontent.com/Ryanjin212/zuboiptv/refs/heads/main/kr.m3u
 
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="General",KBS1
-http://kr.kbstream.dpdns.org/kr.php?id=1_EA49B3B2
-#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/I4Z8R02.jpg" group-title="General",KBS1
 http://kr.kbstream.dpdns.org/kbs.php?id=11
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="General",KBS1
+http://kr.kbstream.dpdns.org/kr.php?id=1_EA49B3B2  
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/co5JP79.png" group-title="General",KBS1
 http://kr.kbstream.dpdns.org/kr.php?id=11_087155E9
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/OHHrLqv.png" group-title="General",KBS1
