@@ -58,7 +58,7 @@ https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="MBN.kr" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" group-title="未分类",MBN
-http://kr.kbstream.dpdns.org/kr.php?id=24_F1BfA250
+http://kr.kbstream.dpdns.org/kr.php?id=24_F1BFA250
 #EXTINF:-1 tvg-id="MBN.kr" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" group-title="未分类",MBN
 #EXTVLCOPT:http-referrer=https://videoplayer.com/
 http://kr.kbstream.dpdns.org/kr.php?id=54_3D17698E
