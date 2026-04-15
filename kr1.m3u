@@ -79,13 +79,14 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCHOSUN2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",TV조선2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVNSTORY.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",tvN
+#EXTINF:-1 tvg-id="TVN.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",tvN
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+
+#EXTINF:-1 tvg-id="TVNSTORY.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",tvN Story
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN 
 
 #EXTINF:-1 tvg-id="TVNSTORY.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",tvN Story
-https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
-
-
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
 
 
 
