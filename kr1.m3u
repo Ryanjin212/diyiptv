@@ -56,7 +56,7 @@ https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="MBN.kr" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" group-title="未分类",MBN
+#EXTINF:-1 tvg-id="MBN.kr" tvg-logo="https://i.imgur.com/wm3JupT.png" group-title="未分类",MBN
 #EXTVLCOPT:http-referrer=https://videoplayer.com/
 http://kr.kbstream.dpdns.org/kr.php?id=54_3D17698E
 
@@ -102,7 +102,7 @@ http://kr.kbstream.dpdns.org/kr.php?id=2_02F85E1F
 http://kr.kbstream.dpdns.org/kr.php?id=5_606FFDED
 #EXTINF:-1 tvg-id="KBSJoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/960px-KBS_JOY.svg.png" group-title="未分类",KBS Joy
 http://kr.kbstream.dpdns.org/kr.php?id=3_39C33D26
-#EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="未分类",KBS Story
+#EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/960px-KBS_Story.svg.png" group-title="未分类",KBS Story
 http://kr.kbstream.dpdns.org/kr.php?id=4_084D1308
 #EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/960px-KBS_kids.svg.png" group-title="Kids",KBS키즈
 http://kr.kbstream.dpdns.org/kr.php?id=6_970B6159
@@ -110,7 +110,7 @@ http://kr.kbstream.dpdns.org/kr.php?id=6_970B6159
 
 
 
-#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://i.imgur.com/ctDyFhV.png" group-title="Series",KBS World
+#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="Series",KBS World
 http://kr.kbstream.dpdns.org/kr.php?id=7_A9D3B425
 
 #EXTINF:-1 tvg-id="KBS News D" tvg-logo="https://i.imgur.com/4qKgvHN.png" group-title="News",KBS News D
