@@ -3,11 +3,11 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://raw.githubusercontent.com/Ryanjin212/zuboiptv/refs/heads/main/kr.m3u
 
-#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Kbs1.png" group-title="General",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/960px-KBS_1_logo.svg.png" group-title="General",KBS1
 http://kr.kbstream.dpdns.org/kr.php?id=1_EA49B3B2
 
 
-#EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kbs2.png" group-title="General",KBS2
+#EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/960px-KBS_2_logo.svg.png" group-title="General",KBS2
 http://kr.kbstream.dpdns.org/kr.php?id=3_2C9275B7
 
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="SBS" tvg-logo="https://i.imgur.com/QLU1hem.png" group-title="General",SBS
