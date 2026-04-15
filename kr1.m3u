@@ -129,14 +129,14 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_8F4B0879.m3u8
 #EXTINF:-1 tvg-id="MBCEvery1.kr" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="Entertainment",MBC에브리원
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_07429BC5.m3u8
 
-#EXTINF:-1 tvg-id="MBCNet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Undefined",MBC Net [Geo-blocked]
+#EXTINF:-1 tvg-id="MBCNet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Undefined",MBC Net
 http://kr.kbstream.dpdns.org/kr.php?id=28_380093DD
 
 #EXTINF:-1 tvg-id="SBSPlus.kr" tvg-logo="https://i.imgur.com/Tf17nIu.png" group-title="General",SBS Plus
 http://kr.kbstream.dpdns.org/kr.php?id=31_F529EBD1
-#EXTINF:-1 tvg-id="SBSfunE.kr" tvg-logo="https://i.imgur.com/nmQKFDJ.jpg" group-title="General",SBSFunE
+#EXTINF:-1 tvg-id="SBSfunE.kr" tvg-logo="https://i.imgur.com/sxM1XcA.png" group-title="General",SBSFunE
 http://kr.kbstream.dpdns.org/kr.php?id=32_4E8875E1
-#EXTINF:-1 tvg-id="SBSLIFE.kr" tvg-logo="https://i.namu.wiki/i/Wi7m3U1sFyBGs6KrnC6ALHIz7Yrqih0dS8v91B6-HHixieWVDtvQGBhE6KQK6DK5a295cq7KP4vTKZBJ9q2pXysFIZPxF_mujrNqS6-IDoZ9_iL0KVCYw-hr5SHULdiUMzvJI_cPPg7KJ30C0F9oPg.webp" group-title="General",SBS Life
+#EXTINF:-1 tvg-id="SBSLIFE.kr" tvg-logo="https://i.imgur.com/JKNSd8s.png" group-title="General",SBS Life
 http://kr.kbstream.dpdns.org/kr.php?id=37_482C7FB9
 #EXTINF:-1 tvg-id="SBSBiz.kr" tvg-logo="https://i.imgur.com/gwA98UT.png" group-title="未分类",SBS Biz
 http://kr.kbstream.dpdns.org/kr.php?id=34_CD2A32B9
