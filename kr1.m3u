@@ -98,22 +98,17 @@ http://kr.kbstream.dpdns.org/kr.php?id=6_970B6159
 
 
 
-#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://i.imgur.com/ctDyFhV.png" group-title="Series",KBS World
-http://kr.kbstream.dpdns.org/kbs.php?id=N14
+
 #EXTINF:-1 tvg-id="KBS World" tvg-logo="https://i.imgur.com/ctDyFhV.png" group-title="Series",KBS World
 http://kr.kbstream.dpdns.org/kr.php?id=7_A9D3B425
-#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://i.imgur.com/ctDyFhV.png" group-title="Series",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://i.imgur.com/ctDyFhV.png" group-title="Series",KBS World
-https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+
 #EXTINF:-1 tvg-id="KBS News D" tvg-logo="https://i.imgur.com/iKufjP1.png" group-title="News",KBS News D
 http://mytv.dothome.co.kr/ch/catv/1.php
 #EXTINF:-1 tvg-id="MBCM.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MBC_M_logo.svg" group-title="Series",MBC M
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 #EXTINF:-1 tvg-id="MBCM.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MBC_M_logo.svg" group-title="Series",MBC M
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
-#EXTINF:-1 tvg-id="MBCM.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MBC_M_logo.svg" group-title="Series",MBC M
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_247_E2F92158.m3u8
+
 #EXTINF:-1 tvg-id="MBC드라마.kr" tvg-logo="https://i.imgur.com/Q20rqnX.png" group-title="Series",MBC 드라마
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_8F4B0879.m3u8
 #EXTINF:-1 tvg-id="MBCEvery1.kr" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="Entertainment",MBC에브리원
