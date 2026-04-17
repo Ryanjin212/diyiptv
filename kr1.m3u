@@ -135,22 +135,22 @@ http://kr.kbstream.dpdns.org/kr.php?id=34_CD2A32B9
 #EXTINF:-1 tvg-id="OBS.kr" tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="General",OBS
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_55.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="Undefined",TBS서울
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",chBTV인천방송
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_415_3B0A4DFF.m3u8
 #EXTINF:-1 group-title="General",SCS서경방송
 https://live.iscs.co.kr/m_live/480p.stream/playlist.m3u8
 #EXTINF:-1 group-title="General",CCS충북방송
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_416_B1ABF570.m3u8
-#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",KCTV제주방송
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",KCTV광주방송
 http://119.77.96.184:1935/chn05/chn05/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",KCTV제주방송
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",KCTV광주방송
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",KCTV제주방송
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",KCTV광주방송
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",KCTV제주방송
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",KCTV광주방송
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",KCTV제주방송
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",KCTV광주방송
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 #EXTINF:-1 tvg-logo="28.1" group-title="未分类",한국영화 1
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
