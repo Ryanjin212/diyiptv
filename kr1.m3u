@@ -230,7 +230,7 @@ http://kr.kbstream.dpdns.org/kr.php?id=36_25BE2900
 #EXTINF:-1 tvg-id="SBSGOLF2.kr" tvg-name="SBSGOLF" tvg-logo="https://i.imgur.com/XG8yYm4.jpg" group-title="Sport",SBS골프2
 http://kr.kbstream.dpdns.org/kr.php?id=42_D1392F29
 
-#EXTINF:-1 tvg-id="kstar.kr" tvg-name="SBSGOLF" tvg-logo="https://i.imgur.com/XG8yYm4.jpg" group-title="Sport",K-Star
+#EXTINF:-1 tvg-id="KSTAR.kr" tvg-name="KSTAR" tvg-logo="https://i.imgur.com/VzFNa9X.png" group-title="Sport",K-Star
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_56_9ACCE3CC.m3u8
 
 #EXTINF:-1 tvg-id="JTBC Golf.kr" tvg-logo="https://i.imgur.com/16Ag0yL.png" group-title="Sport",JTBC Golf
@@ -254,7 +254,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
 #EXTINF:-1 tvg-id="RNA.kr" group-title="未分类",RNA
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_59.m3u8
 
-#EXTINF:-1 tvg-id="RNA.kr" group-title="未分类",서울경제
+#EXTINF:-1 tvg-id="서울경제TV.kr" group-title="未分类",서울경제TV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_527_C6413288.m3u8
 
 #EXTINF:-1 tvg-id="MTN 머니투데이방송.kr" tvg-name="MTN" tvg-logo="https://i.imgur.com/QMDDHd1.gif" group-title="Financial",MTN머니투데
