@@ -207,13 +207,13 @@ http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w964466433.
 http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS2.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/960px-EBS_2TV_Logo.svg.png" group-title="Education",EBS 2
 http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/chunklist_w1022245387.m3u8
-#EXTINF:-1 tvg-id="EBS English.kr" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Education",EBS E
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Education",EBS E
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS KIDS.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",EBS kids
+#EXTINF:-1 tvg-id="EBSKIDS.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",EBS kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS PLUS1.kr" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Education",EBS플러스1
+#EXTINF:-1 tvg-id="EBS플러스1.kr" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Education",EBS플러스1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS PLUS2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Education",EBS+ 2
+#EXTINF:-1 tvg-id="EBS플러스2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Education",EBS+ 2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="未分类",KTV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
@@ -237,6 +237,8 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_56_9ACCE3CC.m3u8
 http://www.hwado.net/webtv/catv/56.php
 #EXTINF:-1 tvg-id="JTBC GOLFandSPORTS.kr" tvg-logo="https://i.imgur.com/16Ag0yL.png" group-title="Sport",JTBC Golf&Sports
 http://kr.kbstream.dpdns.org/kr.php?id=58_6EAEF448
+#EXTINF:-1 tvg-id="JTBC GOLFandSPORTS.kr" tvg-logo="https://i.imgur.com/16Ag0yL.png" group-title="Sport",JTBC Golf&Sports
+http://kr.kbstream.dpdns.org/kr.php?id=58
 #EXTINF:-1 tvg-id="빌리어즈티비.kr" tvg-logo="https://i.imgur.com/fo1k0Oj.png" group-title="未分类",빌리어즈TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Q6TENm.png" group-title="未分类",Fun ROads TV
