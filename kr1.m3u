@@ -85,8 +85,10 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCHOSUN2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",TV조선2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s1/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-id="EVENT1.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",Event1
+https://www.hwado.net/webtv/event2/outside3/11_8332E5BD.php
+#EXTINF:-1 tvg-id="EVENT2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",Event2
+https://www.hwado.net/webtv/event2/outside3/12_1E2F1979.php
 
 
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png" group-title="General",KBS NEWS 24
@@ -235,8 +237,9 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_56_9ACCE3CC.m3u8
 
 #EXTINF:-1 tvg-id="JTBC Golf.kr" tvg-logo="https://i.imgur.com/16Ag0yL.png" group-title="Sport",JTBC Golf
 http://www.hwado.net/webtv/catv/56.php
-#EXTINF:-1 tvg-id="JTBC GOLFandSPORTS.kr" tvg-logo="https://i.imgur.com/16Ag0yL.png" group-title="Sport",JTBC Golf&Sports
-http://kr.kbstream.dpdns.org/kr.php?id=58_6EAEF448
+
+#EXTINF:-1 tvg-id="JTBC GOLFandSPORTS.kr" tvg-logo="https://i.imgur.com/16Ag0yL.png" group-title="Sport",JTBC Sports
+http://jtbc3sports.flive.skcdn.com/jtbc3sports1/_definst_/8EB68C22B53D2EBD3FD20CADB0D871F7A0923C8DE605E86F67D997362CE3C74D/playlist.m3u8
 #EXTINF:-1 tvg-id="JTBC GOLFandSPORTS.kr" tvg-logo="https://i.imgur.com/16Ag0yL.png" group-title="Sport",JTBC Golf&Sports
 http://kr.kbstream.dpdns.org/kr.php?id=58
 #EXTINF:-1 tvg-id="빌리어즈티비.kr" tvg-logo="https://i.imgur.com/fo1k0Oj.png" group-title="未分类",빌리어즈TV
