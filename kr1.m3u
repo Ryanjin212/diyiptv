@@ -95,14 +95,6 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCHOSUN2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",TV조선2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EVENT1.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",Event1
-http://kr.kbstream.dpdns.org/kr.php?id=11_8332E5BD
-#EXTINF:-1 tvg-id="EVENT1.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",Event1
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_74_2666F0B6.m3u8
-#EXTINF:-1 tvg-id="EVENT2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",Event2
-http://kr.kbstream.dpdns.org/kr.php?id=12_1E2F1979
-#EXTINF:-1 tvg-id="EVENT2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",Event2
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_66_B4A2AB43.m3u8
 
 
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png" group-title="General",KBS NEWS 24
