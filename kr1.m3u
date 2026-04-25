@@ -161,6 +161,10 @@ http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 #EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",KCTV광주방송
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCiXkjm.png" group-title="未分类",JCN
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_414.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCiXkjm.png" group-title="未分类",JCN
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
 #EXTINF:-1 tvg-logo="28.1" group-title="未分类",한국영화 1
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 #EXTINF:-1 tvg-logo="28.1" group-title="未分类",한국영화 2
@@ -175,18 +179,7 @@ http://210.92.207.38:40001
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 tvg-id="연합뉴스TV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="News",연합뉴스TV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
-#EXTINF:-1 tvg-logo="28.1" group-title="未分类",New Kids 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
-#EXTINF:-1 tvg-logo="28.1" group-title="未分类",New Kids 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IFLXi6n.png" group-title="Music",THE K-POP
-http://kr.kbstream.dpdns.org/kr.php?id=33
-#EXTINF:-1 group-title="Music",Kpop
-https://tvlive.sbs.co.kr/sbskpop/sbskpop0.stream/chunklist.m3u
-#EXTINF:-1 group-title="Music",Kpop
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H4o1bpS.png" group-title="Music",한국가요채널
-http://live.kytv.co.kr:8080/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",국악방송
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="아리랑 TV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General",Arirang
@@ -199,12 +192,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="General",Arirang Radio
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="General",Kpop TV Play
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_63_4C53CB3C.m3u8
-#EXTINF:-1 group-title="General",Kronehit TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 group-title="General",Classic Arts Showcase
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
 #EXTINF:-1 tvg-id="OUN" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="Education",방송대학TV
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png" group-title="Education",EBS
@@ -242,25 +230,7 @@ http://kr.kbstream.dpdns.org/kr.php?id=42_D1392F29
 #EXTINF:-1 tvg-id="KSTAR.kr" tvg-name="KSTAR" tvg-logo="https://i.imgur.com/VzFNa9X.png" group-title="Sport",K-Star
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_56_9ACCE3CC.m3u8
 
-#EXTINF:-1 tvg-id="JTBC Golf.kr" tvg-logo="https://i.imgur.com/16Ag0yL.png" group-title="Sport",JTBC Golf
-https://www.hwado.net/webtv/catv/58.php
 
-#EXTINF:-1 tvg-id="JTBC GOLFandSPORTS.kr" tvg-logo="https://i.imgur.com/16Ag0yL.png" group-title="Sport",JTBC Golf&Sports
-http://kr.kbstream.dpdns.org/kr.php?id=58
-#EXTINF:-1 tvg-id="빌리어즈티비.kr" tvg-logo="https://i.imgur.com/fo1k0Oj.png" group-title="未分类",빌리어즈TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Q6TENm.png" group-title="未分类",Fun ROads TV
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/Foreigntv_306_55B04AD8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8AEfKB8.png" group-title="未分类",Outside TV+
-https://c185ba78559f47b79f8079be89884d03.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_OutsideTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="未分类",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="未分类",The Pet Collective
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/Foreigntv_301_8B9D519B.m3u8
-#EXTINF:-1 tvg-id="한국낚시방송.kr" tvg-logo="https://i.namu.wiki/i/jujRKlFCPlwGoXblU0mZCs8kJvVvyNtUdvrMk15ho0KaShaZXqh6V88EtOz7NTQRxLZx2NvvdSLilnozNXfo0k3tVNLlqgV1ylYVZSgS7ftvavmZrBUrzHPqelnCP1B7UkMAfYVQP81jjTGJyIXHKw.svg" group-title="Sport",한국낚시방송
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_561.m3u8
-#EXTINF:-1 tvg-id="FTV.kr" tvg-logo="https://i.imgur.com/VLsGJ1x.png" group-title="Sport",FTV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
 #EXTINF:-1 tvg-id="RNA.kr" group-title="未分类",RNA
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_59.m3u8
 
@@ -269,10 +239,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_527_C6413288.m3u8
 
 #EXTINF:-1 tvg-id="MTN 머니투데이방송.kr" tvg-name="MTN" tvg-logo="https://i.imgur.com/QMDDHd1.gif" group-title="Financial",MTN머니투데
 https://cdnlive.mtn.co.kr/mtnlive/_definst_/720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HCiXkjm.png" group-title="未分类",JCN
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_414.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HCiXkjm.png" group-title="未分类",JCN
-https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
+
 #EXTINF:-1 tvg-id="복지TV.kr" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="未分类",복지TV
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",국방TV
