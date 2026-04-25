@@ -165,14 +165,7 @@ http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_414.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HCiXkjm.png" group-title="未分类",JCN
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
-#EXTINF:-1 tvg-logo="28.1" group-title="未分类",한국영화 1
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
-#EXTINF:-1 tvg-logo="28.1" group-title="未分类",한국영화 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 tvg-logo="28.1" group-title="未分类",한국영화 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1 group-title="Movie",New KMovie
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_266_F00DF600.m3u8
+
 #EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png" group-title="News",YTN
 http://210.92.207.38:40001
 #EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png" group-title="News",YTN
