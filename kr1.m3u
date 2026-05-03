@@ -234,15 +234,15 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_527_C6413288.m3u8
 https://cdnlive.mtn.co.kr/mtnlive/_definst_/720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="복지TV.kr" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="未分类",복지TV
-https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+https://hls.midibus.kinxcdn.com/live/ch_19b36d47/19b81079d4dfc4f7/playlist.m3u8
 #EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="국회방송.kr" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="Legislative",국회방송
 https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="소상공인시장tv.kr" tvg-logo="https://i.imgur.com/O2krQuP.png" group-title="未分类",소상공인방송
-http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+#EXTINF:-1 tvg-id="소상공인시장tv.kr" tvg-logo="https://i.imgur.com/O2krQuP.png" group-title="未分类",지방자치TV
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_427_0358FD4E.m3u8
 #EXTINF:-1 tvg-id="한국직업방송" tvg-logo="https://i.imgur.com/Y5Zg5SR.png" group-title="未分类",한국직업방송
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m301.m3u8
 #EXTINF:-1 tvg-id="NHTV.kr" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="未分类",NHTV농협방송
