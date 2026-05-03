@@ -172,6 +172,8 @@ http://210.92.207.38:40001
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 tvg-id="연합뉴스TV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="News",연합뉴스TV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
+#EXTINF:-1 tvg-id="글로벌뉴스.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="News",글로벌뉴스
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_526_CF0C00A1.m3u8
 
 #EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",국악방송
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
