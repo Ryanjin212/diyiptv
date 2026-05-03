@@ -230,8 +230,10 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_59.m3u8
 #EXTINF:-1 tvg-id="서울경제TV.kr" group-title="未分类",서울경제TV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_527_C6413288.m3u8
 
-#EXTINF:-1 tvg-id="MTN 머니투데이방송.kr" tvg-name="MTN" tvg-logo="https://i.imgur.com/QMDDHd1.gif" group-title="Financial",MTN머니투데
-https://cdnlive.mtn.co.kr/mtnlive/_definst_/720/playlist.m3u8
+#EXTINF:-1 tvg-id="채널i.kr" tvg-name="채널i" tvg-logo="https://i.imgur.com/QMDDHd1.gif" group-title="Financial",채널i
+1.201.160.177:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="silveri.kr" tvg-name="채널i" tvg-logo="https://i.imgur.com/QMDDHd1.gif" group-title="Financial",실버아이TV
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_514_101A00A4.m3u8
 
 #EXTINF:-1 tvg-id="복지TV.kr" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="未分类",복지TV
 https://hls.midibus.kinxcdn.com/live/ch_19b36d47/19b81079d4dfc4f7/playlist.m3u8
