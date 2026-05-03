@@ -26,6 +26,8 @@ http://123.140.197.22/stream/1/play.m3u8
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="KNN SBS" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="General",SBS
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC Gangwon" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
+http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",MBC
 http://kr.kbstream.dpdns.org/kr.php?id=24_F1BFA250
 #EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",MBC
@@ -42,8 +44,7 @@ https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_w1740046871.m3u8
 https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC Yeosu" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC Gangwon" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
-http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC Chungbuk" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC Mokpo" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",MBC
