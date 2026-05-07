@@ -1,21 +1,21 @@
 #EXTM3U url-tvg="http://arva.netgenx.site/epg/kai-epg.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 tvg-id="gd01" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 #EXTINF:-1 tvg-id="gd02" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
 #EXTINF:-1 tvg-id="gd03" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/250px-Nippon_TV_logo_2014.svg.png",NTV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
 #EXTINF:-1 tvg-id="gd04" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
 #EXTINF:-1 tvg-id="gd05" tvg-name="Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
 #EXTINF:-1 tvg-id="gd06" tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/250px-TV_Asahi_Logo.svg.png",TV Asahi
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
 #EXTINF:-1 tvg-id="gd07" tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/250px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
 #EXTINF:-1 tvg-id="gd08" tvg-name="TOKYO MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/250px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
 #EXTINF:-1 tvg-id="jp10" tvg-name="TOKYO MX2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/250px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
 http://arva.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="gx01" tvg-name="MBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/250px-Mainichi_Broadcasting_System_logo.svg.png",MBS
