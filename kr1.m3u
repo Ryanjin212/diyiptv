@@ -5,7 +5,12 @@
 
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/960px-KBS_1_logo.svg.png" group-title="General",KBS1
 http://kr.kbstream.dpdns.org/kr.php?id=1_EA49B3B2
-
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/960px-KBS_1_logo.svg.png" group-title="General",대전KBS1
+http://kr.kbstream.dpdns.org/kr.php?id=11_087155E9
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/960px-KBS_1_logo.svg.png" group-title="General",울산KBS1
+http://kr.kbstream.dpdns.org/kr.php?id=14_ECE1A251
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/960px-KBS_1_logo.svg.png" group-title="General",부산KBS1
+http://kr.kbstream.dpdns.org/kr.php?id=15_6B9253F0
 
 #EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/960px-KBS_2_logo.svg.png" group-title="General",KBS2
 http://kr.kbstream.dpdns.org/kr.php?id=3_2C9275B7
