@@ -54,9 +54,9 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_D2736659.m3u8
 #EXTINF:-1 tvg-id="MBC.kr" tvg-name="대구MBC" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="General",MBC
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_2758F434.m3u8
 
-#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
+#EXTINF:-1 tvg-id="MBC.kr"  tvg-name="MBC" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
 https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_w1740046871.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
+#EXTINF:-1 tvg-id="MBC.kr"  tvg-name="MBC" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
 https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="MBC.kr" tvg-name="여수MBC" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="General",MBC
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
