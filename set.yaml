@@ -27,8 +27,8 @@ proxies:
   port: 2052
   uuid: e14274fc-6d7f-40a8-8d4f-5bbd2986d677
   network: ws
-  tls: true
-  udp: false
+  tls: false
+  udp: true
   sni: sweet-cottoncandy.bitnd7ew.workers.dev
   client-fingerprint: chrome
   ws-opts:
@@ -41,8 +41,8 @@ proxies:
   port: 2052
   uuid: e14274fc-6d7f-40a8-8d4f-5bbd2986d677
   network: ws
-  tls: true
-  udp: false
+  tls: false
+  udp: true
   sni: sweet-cottoncandy.bitnd7ew.workers.dev
   client-fingerprint: chrome
   ws-opts:
@@ -64,30 +64,6 @@ proxy-groups:
   - 2_speednode_0155
   type: select
   url: https://www.google.com/
-- name: 日抛选择
-  type: select
-  url: http://www.gstatic.com/generate_204
-  interval: 3600
-  use:
-    - ripaojiedian
-  proxies:
-    - DIRECT
-- name: NoMoreWalls-proxy
-  type: select
-  url: http://www.gstatic.com/generate_204
-  interval: 3600
-  use:
-    - NoMoreWalls
-  proxies:
-    - DIRECT
-- name: free1999-100g
-  type: select
-  url: http://www.gstatic.com/generate_204
-  interval: 3600
-  use:
-    - free1999
-  proxies:
-    - DIRECT
 - interval: 300
   name: 🔰延迟最低
   proxies: *id001
@@ -127,33 +103,11 @@ proxy-groups:
 - name: 🗺️选择地区
   proxies:
   - 🇯🇵日本
-  - 🇺🇸美国
-  - 🇭🇰香港
-  - 🇩🇪德国
   type: select
 - name: 🇯🇵日本
   proxies:
   - 1_speednode_0155
   - 2_speednode_0155
-  - 3_speednode_0155
-  type: select
-- name: 🇺🇸美国
-  proxies:
-  - 1_speednode_0155
-  - 2_speednode_0155
-  - 3_speednode_0155
-  type: select
-- name: 🇭🇰香港
-  proxies:
-  - 1_speednode_0155
-  - 2_speednode_0155
-  - 3_speednode_0155
-  type: select
-- name: 🇩🇪德国
-  proxies:
-  - 1_speednode_0155
-  - 2_speednode_0155
-  - 3_speednode_0155
   type: select
 rules:
 - IP-CIDR,154.7.80.158/32,⛔广告拦截
