@@ -215,6 +215,19 @@ https://jmp2.uk/stvp-KR1900001KQ
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="未分类",씨네21+
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_250_020AB4E1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",한국영화
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",인기영화
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_249_AFC21AF8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",영화
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",국악방송
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="아리랑 TV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General",Arirang
