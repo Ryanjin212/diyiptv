@@ -42,13 +42,13 @@ http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",MBC
 http://kr.kbstream.dpdns.org/kr.php?id=24_F1BFA250
-#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",경남MBC
+#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/Ronb1JP.png" group-title="General",경남MBC
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_781A50DD.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",제주MBC
+#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/JM4rxGU.pn" group-title="General",제주MBC
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_D2736659.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",춘천MBC
+#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="General",춘천MBC
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_5_2EF185C8.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",대전MBC
+#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="General",대전MBC
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_5_35B40960.m3u8
 
 #EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",MBC
@@ -66,14 +66,18 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC Chungbuk" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",MBC
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC Mokpo" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",목포MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC Daejeon" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="General",대전MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/wmGJgYh.png" group-title="General",광주MBC
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC Chuncheon" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" group-title="General",춘천MBC
+#EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC Chuncheon" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="General",춘천MBC
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="MBN.kr" tvg-logo="https://i.imgur.com/wm3JupT.png" group-title="未分类",MBN
