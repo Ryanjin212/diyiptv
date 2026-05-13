@@ -117,6 +117,17 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCHOSUN2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean",TV조선2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png" group-title="News",YTN
+https://jmp2.uk/stvp-KRBD2400001XD
+#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png" group-title="News",YTN
+http://210.92.207.38:40001
+#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png" group-title="News",YTN
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
+
+#EXTINF:-1 tvg-id="연합뉴스TV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="News",연합뉴스TV
+https://jmp2.uk/stvp-KRBD1400001ED
+#EXTINF:-1 tvg-id="연합뉴스TV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="News",연합뉴스TV
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
 
 
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png" group-title="General",KBS NEWS 24
@@ -203,17 +214,7 @@ https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1900001KQ_20260513T012921SQUARE.png" group-title="未分类",STN
 https://jmp2.uk/stvp-KR1900001KQ
 
-#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png" group-title="News",YTN
-https://jmp2.uk/stvp-KRBD2400001XD
-#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png" group-title="News",YTN
-http://210.92.207.38:40001
-#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png" group-title="News",YTN
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 
-#EXTINF:-1 tvg-id="연합뉴스TV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="News",연합뉴스TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
-#EXTINF:-1 tvg-id="글로벌뉴스.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="News",글로벌뉴스
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_526_CF0C00A1.m3u8
 
 #EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",국악방송
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
