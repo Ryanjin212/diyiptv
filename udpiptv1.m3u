@@ -15,10 +15,10 @@ http://192.168.50.1:7575/udp/239.49.8.74:8000
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="央视频道", CCTV4
 http://192.168.50.1:7575/udp/239.49.8.51:9806
 
-#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="央视频道", CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="央视频道", CCTV5
 http://192.168.50.1:7575/udp/239.49.8.75:8000
 
-#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="央视频道", CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="央视频道", CCTV5+
 http://192.168.50.1:7575/udp/239.49.8.18:9610
 
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="央视频道", CCTV6
