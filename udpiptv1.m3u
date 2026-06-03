@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://live.fanmingming.com/e.xml"
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://raw.githubusercontent.com/Ryanjin212/zuboiptv/refs/heads/main/newudp.m3u
