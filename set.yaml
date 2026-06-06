@@ -37,7 +37,7 @@ proxies:
       host: sweet-cottoncandy.bitnd7ew.workers.dev
 - type: vless
   name: 2_speednode_0155
-  server: 162.159.44.39
+  server: 162.159.45.143
   port: 2052
   uuid: e14274fc-6d7f-40a8-8d4f-5bbd2986d677
   network: ws
