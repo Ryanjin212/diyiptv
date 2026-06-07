@@ -124,9 +124,9 @@ http://210.92.207.38:40001
 #EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png" group-title="News",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 
-#EXTINF:-1 tvg-id="연합뉴스TV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="News",연합뉴스TV
+#EXTINF:-1 tvg-id="연합뉴스TV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="News",Yonhap News
 https://jmp2.uk/stvp-KRBD1400001ED
-#EXTINF:-1 tvg-id="연합뉴스TV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="News",연합뉴스TV
+#EXTINF:-1 tvg-id="연합뉴스TV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="News",Yonhap News
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
 
 
@@ -140,7 +140,7 @@ http://kr.kbstream.dpdns.org/kr.php?id=5_606FFDED
 http://kr.kbstream.dpdns.org/kr.php?id=3_39C33D26
 #EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/960px-KBS_Story.svg.png" group-title="未分类",KBS Story
 http://kr.kbstream.dpdns.org/kr.php?id=4_084D1308
-#EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/960px-KBS_kids.svg.png" group-title="Kids",KBS키즈
+#EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/960px-KBS_kids.svg.png" group-title="Kids",KBS Kids
 http://kr.kbstream.dpdns.org/kr.php?id=6_970B6159
 
 
@@ -149,8 +149,6 @@ http://kr.kbstream.dpdns.org/kr.php?id=6_970B6159
 #EXTINF:-1 tvg-id="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="Series",KBS World
 http://kr.kbstream.dpdns.org/kr.php?id=7_A9D3B425
 
-#EXTINF:-1 tvg-id="KBS News D" tvg-logo="https://i.imgur.com/4qKgvHN.png" group-title="News",KBS News D
-http://mytv.dothome.co.kr/ch/catv/1.php
 #EXTINF:-1 tvg-id="MBCM.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MBC_M_logo.svg" group-title="Series",MBC M
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 #EXTINF:-1 tvg-id="MBCM.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MBC_M_logo.svg" group-title="Series",MBC M
@@ -235,7 +233,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 
 
 
-#EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",국악방송
+#EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",Gugak TV
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="아리랑 TV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -304,19 +302,19 @@ http://1.201.160.177:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="silveri.kr" tvg-name="채널i" tvg-logo="https://i.imgur.com/QMDDHd1.gif" group-title="Financial",Silver iTV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_514_101A00A4.m3u8
 
-#EXTINF:-1 tvg-id="복지TV.kr" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="未分类",복지TV
+#EXTINF:-1 tvg-id="복지TV.kr" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="未分类",WBC TV
 https://hls.midibus.kinxcdn.com/live/ch_19b36d47/19b81079d4dfc4f7/playlist.m3u8
 #EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="국회방송.kr" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="Legislative",국회방송
+#EXTINF:-1 tvg-id="국회방송.kr" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="Legislative",NATV (국회방송)
 https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="소상공인시장tv.kr" tvg-logo="https://i.imgur.com/O2krQuP.png" group-title="未分类",지방자치TV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_427_0358FD4E.m3u8
 #EXTINF:-1 tvg-id="한국직업방송" tvg-logo="https://i.imgur.com/Y5Zg5SR.png" group-title="未分类",한국직업방송
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m301.m3u8
-#EXTINF:-1 tvg-id="NHTV.kr" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="未分类",NHTV농협방송
+#EXTINF:-1 tvg-id="NHTV.kr" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="未分类",Nonghyup TV
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 #EXTINF:-1 tvg-id="NBS한국농업방송" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="未分类",한국농업방송
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
@@ -326,35 +324,30 @@ https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:iptvcat.
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="C Channel.kr" tvg-logo="https://i.ibb.co/GC73Fxt/logo.png" group-title="未分类",C채널
 http://112.175.51.214:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="신세계쇼핑.kr" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",신세계쇼핑
+#EXTINF:-1 tvg-id="신세계쇼핑.kr" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",Shinsegae Shopping
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="신세계쇼핑.kr" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",신세계쇼핑
+#EXTINF:-1 tvg-id="신세계쇼핑.kr" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",Shinsegae Shopping
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="신세계쇼핑.kr" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",신세계쇼핑
-http://gg.gg/Ha_Noi_IPTV_67-Shinsegae_Shopping_HD
-#EXTINF:-1 tvg-id="현대홈쇼핑+샵.kr" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="Shop",현대홈쇼핑 Plus#
-http://gg.gg/Ha_Noi_IPTV_72-Hyundai_Mall_Plus_HD
-#EXTINF:-1 tvg-id="현대홈쇼핑+샵.kr" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="Shop",현대홈쇼핑 Plus#
+
+#EXTINF:-1 tvg-id="현대홈쇼핑+샵.kr" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="Shop",Hyundai Home Shopping Plus
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="W쇼핑.kr" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="Shop",W쇼핑
+#EXTINF:-1 tvg-id="W쇼핑.kr" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="Shop",W Shopping
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-#EXTINF:-1 tvg-id="W쇼핑.kr" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="Shop",W쇼핑
-http://gg.gg/Ha_Noi_IPTV_75-W_Shopping_HD
-#EXTINF:-1 tvg-id="NS홈쇼핑.kr" tvg-logo="https://i.imgur.com/Q9xsDQo.png" group-title="Shop",NS홈쇼핑
+
+#EXTINF:-1 tvg-id="NS홈쇼핑.kr" tvg-logo="https://i.imgur.com/Q9xsDQo.png" group-title="Shop",NS Home Shopping
 http://livestream.nsmall.com:1935/IPHONE/test.m3u8
-#EXTINF:-1 tvg-id="NS Shop+.kr" tvg-logo="https://i.imgur.com/7KmXNci.png" group-title="Shop",NS Shop+
+#EXTINF:-1 tvg-id="NS Shop+.kr" tvg-logo="https://i.imgur.com/7KmXNci.png" group-title="Shop",NS Shop Plus
 https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
-#EXTINF:-1 tvg-id="공영쇼핑.kr" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="Shop",공영쇼핑
+#EXTINF:-1 tvg-id="공영쇼핑.kr" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="Shop",Gongyoung Shopping
 https://etv.publichs.com/live5.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="롯데홈쇼핑.kr" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",롯데홈쇼핑
+#EXTINF:-1 tvg-id="롯데홈쇼핑.kr" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Lotte Home Shopping
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 
-#EXTINF:-1 tvg-id="쇼핑엔티.kr" tvg-logo="https://i.imgur.com/BgbJp5X.png" group-title="Shop",쇼핑엔티
+#EXTINF:-1 tvg-id="쇼핑엔티.kr" tvg-logo="https://i.imgur.com/BgbJp5X.png" group-title="Shop",Shopping NT Mall
 https://live.shoppingntmall.com/live/10011.m3u8
-#EXTINF:-1 tvg-id="홈and쇼핑.kr" tvg-logo="https://i.imgur.com/IcexRXG.png" group-title="Shop",홈앤쇼핑
+#EXTINF:-1 tvg-id="홈and쇼핑.kr" tvg-logo="https://i.imgur.com/IcexRXG.png" group-title="Shop",Home & Shopping
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
-#EXTINF:-1 tvg-id="홈and쇼핑.kr" tvg-logo="https://i.imgur.com/IcexRXG.png" group-title="Shop",홈앤쇼핑
-http://gg.gg/Ha_Noi_IPTV_78-Home_and_Shopping_HD
+
 #EXTINF:-1 tvg-id="CJ ONSTYLE.kr" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="Shop",CJ OnStyle
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 #EXTINF:-1 tvg-id="CJ ONSTYLE.kr" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="Shop",CJ OnStyle
