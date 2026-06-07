@@ -22,17 +22,17 @@ http://kr.kbstream.dpdns.org/kr.php?id=3_2C9275B7
 https://tvlive.sbs.co.kr/sbsch6/sbsch60.stream/chunklist.m3u
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="SBS" tvg-logo="https://i.imgur.com/QLU1hem.png" group-title="General",SBS
 http://kr.kbstream.dpdns.org/kr.php?id=31_0B41417D
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="CJB SBS" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="General",SBS
+#EXTINF:-1 tvg-id="SBS.kr" tvg-name="CJB SBS" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="General",SBS CJB
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_8_5706648C.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="CJB SBS" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="General",SBS
+#EXTINF:-1 tvg-id="SBS.kr" tvg-name="CJB SBS" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="General",SBS CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="JIBS SBS" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="General",SBS
+#EXTINF:-1 tvg-id="SBS.kr" tvg-name="JIBS SBS" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="General",SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="KBC SBS" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="General",SBS
+#EXTINF:-1 tvg-id="SBS.kr" tvg-name="KBC SBS" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="General",SBS KBC
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="KNN SBS" tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="General",SBS
+#EXTINF:-1 tvg-id="SBS.kr" tvg-name="KNN SBS" tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="General",SBS KNN
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="G1 SBS" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="General",SBS
+#EXTINF:-1 tvg-id="SBS.kr" tvg-name="G1 SBS" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="General",SBS G1
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 
 
@@ -40,7 +40,7 @@ http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MBC.kr" tvg-name="강원영동MBC" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="General",MBC
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-name="춘천MBC" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="General",MBC
+#EXTINF:-1 tvg-id="MBC.kr" tvg-name="춘천MBC" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="General",MBC 
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_5_2EF185C8.m3u8
 #EXTINF:-1 tvg-id="MBC.kr" tvg-name="경남MBC" tvg-logo="https://i.imgur.com/Ronb1JP.png" group-title="General",MBC
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_781A50DD.m3u8
