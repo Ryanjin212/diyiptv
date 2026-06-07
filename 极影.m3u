@@ -11,31 +11,65 @@ p3p://fccs.ddns.net:19906/6109e9bb0005fd87fd9ce5ea2c1f18d3
 p3p://94.130.51.14:19906/5fe445280008a40682a0367c343436bb
 #EXTINF:-1 tvg-id="松視1台.tw" tvg-logo="https://archive.org/download/1_20230201_20230201_1610/%E6%9D%BE%E8%A6%961%E5%8F%B0.png" group-title="TW台湾频道+",松視1台
 p3p://fccs.ddns.net:19906/5fe445280008a40682a0367c343436bb
+#EXTINF:-1 tvg-id="松視1台.tw" tvg-logo="https://archive.org/download/1_20230201_20230201_1610/%E6%9D%BE%E8%A6%961%E5%8F%B0.png" group-title="TW台湾频道+",松視1台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+
+
 
 #EXTINF:-1 tvg-id="松視2台.tw" tvg-logo="https://ia904704.us.archive.org/4/items/4_20230201_20230201_1628/%E6%9D%BE%E8%A6%962%E5%8F%B0.png" group-title="TW台湾频道+",松視2台
 p3p://94.130.51.14:19906/60232b5f00007bc37850649979e379df.ts
 #EXTINF:-1 tvg-id="松視2台.tw" tvg-logo="https://ia904704.us.archive.org/4/items/4_20230201_20230201_1628/%E6%9D%BE%E8%A6%962%E5%8F%B0.png" group-title="TW台湾频道+",松視2台
 p3p://fccs.ddns.net:19906/60232b5f00007bc37850649979e379df
+#EXTINF:-1 tvg-id="松視2台.tw" tvg-logo="https://ia904704.us.archive.org/4/items/4_20230201_20230201_1628/%E6%9D%BE%E8%A6%962%E5%8F%B0.png" group-title="TW台湾频道+",松視2台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+
+
 
 #EXTINF:-1 tvg-id="松視3台.tw" tvg-logo="https://ia804704.us.archive.org/4/items/4_20230201_20230201_1628/%E6%9D%BE%E8%A6%963%E5%8F%B0.png" group-title="TW台湾频道+",松視3台
 p3p://94.130.51.14:19906/6109e9590001f40bfd9b661109395f3b
 #EXTINF:-1 tvg-id="松視3台.tw" tvg-logo="https://ia804704.us.archive.org/4/items/4_20230201_20230201_1628/%E6%9D%BE%E8%A6%963%E5%8F%B0.png" group-title="TW台湾频道+",松視3台
 p3p://fccs.ddns.net:19906/6109e9590001f40bfd9b661109395f3b
+#EXTINF:-1 tvg-id="松視3台.tw" tvg-logo="https://ia804704.us.archive.org/4/items/4_20230201_20230201_1628/%E6%9D%BE%E8%A6%963%E5%8F%B0.png" group-title="TW台湾频道+",松視3台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+
+
+
 
 #EXTINF:-1 tvg-id="Pandora潘朵啦高畫質玩美台.tw" tvg-logo="https://ia804704.us.archive.org/4/items/4_20230201_20230201_1628/%E6%BD%98%E6%9C%B5%E6%8B%89%E7%8E%A9%E7%BE%8E%E5%8F%B0.png" group-title="TW台湾频道+",潘朵啦玩美台
 p3p://94.130.51.14:19906/5fe4450c000c918b829fca233c845311
 #EXTINF:-1 tvg-id="Pandora潘朵啦高畫質玩美台.tw" tvg-logo="https://ia804704.us.archive.org/4/items/4_20230201_20230201_1628/%E6%BD%98%E6%9C%B5%E6%8B%89%E7%8E%A9%E7%BE%8E%E5%8F%B0.png" group-title="TW台湾频道+",潘朵啦玩美台
 p3p://fccs.ddns.net:19906/5fe4450c000c918b829fca233c845311
+#EXTINF:-1 tvg-id="Pandora潘朵啦高畫質玩美台.tw" tvg-logo="https://ia804704.us.archive.org/4/items/4_20230201_20230201_1628/%E6%BD%98%E6%9C%B5%E6%8B%89%E7%8E%A9%E7%BE%8E%E5%8F%B0.png" group-title="TW台湾频道+",潘朵啦玩美台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="驚豔成人電影台.tw" tvg-logo="https://ia904704.us.archive.org/4/items/4_20230201_20230201_1628/%E9%A9%9A%E8%B1%94%E5%8F%B0.png" group-title="TW台湾频道+",驚豔台
 p3p://94.130.51.14:19906/60626a1b00010e3e6f5a5a4f018e5ebe
 #EXTINF:-1 tvg-id="驚豔成人電影台.tw" tvg-logo="https://ia904704.us.archive.org/4/items/4_20230201_20230201_1628/%E9%A9%9A%E8%B1%94%E5%8F%B0.png" group-title="TW台湾频道+",驚豔台
 p3p://fccs.ddns.net:19906/60626a1b00010e3e6f5a5a4f018e5ebe
+#EXTINF:-1 tvg-id="驚豔成人電影台.tw" tvg-logo="https://ia904704.us.archive.org/4/items/4_20230201_20230201_1628/%E9%A9%9A%E8%B1%94%E5%8F%B0.png" group-title="TW台湾频道+",驚豔台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+
+
 
 #EXTINF:-1 tvg-id="香蕉台.tw" tvg-logo="https://ia904704.us.archive.org/4/items/4_20230201_20230201_1628/%E9%A6%99%E8%95%89%E5%8F%B0.png" group-title="TW台湾频道+",香蕉台
 p3p://94.130.51.14:19906/60626a760005067e6f5bbecb5816771e
 #EXTINF:-1 tvg-id="香蕉台.tw" tvg-logo="https://ia904704.us.archive.org/4/items/4_20230201_20230201_1628/%E9%A6%99%E8%95%89%E5%8F%B0.png" group-title="TW台湾频道+",香蕉台
 p3p://fccs.ddns.net:19906/60626a760005067e6f5bbecb5816771e
+#EXTINF:-1 tvg-id="香蕉台.tw" tvg-logo="https://ia904704.us.archive.org/4/items/4_20230201_20230201_1628/%E9%A6%99%E8%95%89%E5%8F%B0.png" group-title="TW台湾频道+",香蕉台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="彩虹E台.tw"" tvg-logo="" group-title="TW台湾频道+",彩虹E
 p3p://94.130.51.14:19906/6062716c0008efc86f76f0c44d55329f
