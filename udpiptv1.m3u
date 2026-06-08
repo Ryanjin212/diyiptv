@@ -71,35 +71,39 @@ http://192.168.50.1:7575/udp/239.49.0.82:8000
 
 
 
-#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="卫视频道", 江苏卫视 4k
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="卫视频道", 江苏卫视 4K
 http://192.168.50.1:7575/udp/239.49.1.62:8000
 
 
-#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="卫视频道", 江苏卫视 4k
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="卫视频道", 江苏卫视 4K
 http://192.168.50.1:7575/udp/239.49.1.61:8000
 
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="卫视频道", 江苏卫视
 http://192.168.50.1:7575/udp/239.49.8.16:9602
 
+#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="卫视频道", 湖南卫视 4K
+http://192.168.50.1:7575/udp/239.49.1.67:8000
 
+#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="卫视频道", 湖南卫视
+http://192.168.50.1:7575/udp/239.49.8.12:9418
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="卫视频道", 北京卫视
 http://192.168.50.1:7575/udp/239.49.0.42:8000
 
-#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="卫视频道", 北京卫视 4k
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="卫视频道", 北京卫视 4K
 http://192.168.50.1:7575/udp/239.49.0.253:8000
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="卫视频道", 广东卫视
 http://192.168.50.1:7575/udp/239.49.1.24:8000
 
-#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="卫视频道", 广东卫视 4k
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="卫视频道", 广东卫视 4K
 http://192.168.50.1:7575/udp/239.49.1.26:8000
 
 #EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="卫视频道", 深圳卫视
 http://192.168.50.1:7575/udp/239.49.1.27:8000
 
-#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="卫视频道", 深圳卫视 4k
+#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="卫视频道", 深圳卫视 4K
 http://192.168.50.1:7575/udp/239.49.1.28:8000
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="卫视频道", 浙江卫视
@@ -108,13 +112,12 @@ http://192.168.50.1:7575/udp/239.49.1.63:8000
 #EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" group-title="卫视频道", 四川卫视
 http://192.168.50.1:7575/udp/239.49.1.65:8000
 
-#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="卫视频道", 湖南卫视
-http://192.168.50.1:7575/udp/239.49.1.67:8000
+
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东卫视.png" group-title="卫视频道", 东方卫视
 http://192.168.50.1:7575/udp/239.49.1.69:8000
 
-#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东卫视.png" group-title="卫视频道", 山东卫视 4k
+#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东卫视.png" group-title="卫视频道", 山东卫视 4K
 http://192.168.50.1:7575/udp/239.49.1.71:8000
 
 #EXTINF:-1 tvg-id="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西卫视.png" group-title="卫视频道", 广西卫视
@@ -158,8 +161,7 @@ http://192.168.50.1:7575/udp/239.49.8.17:9606
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="卫视频道", 北京卫视
 http://192.168.50.1:7575/udp/239.49.8.11:9414
 
-#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="卫视频道", 湖南卫视
-http://192.168.50.1:7575/udp/239.49.8.12:9418
+
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="卫视频道", 广东卫视
 http://192.168.50.1:7575/udp/239.49.8.13:9422
