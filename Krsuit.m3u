@@ -3,17 +3,17 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL 
 
-#EXTINF:-1 tvg-id="KBS1.kr" tvg-name="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/960px-KBS_1_logo.svg.png" group-title="General",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-name="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/960px-KBS_1_logo.svg.png" group-title="General",KBS1 HD
 http://kr.kbstream.dpdns.org/kr.php?id=1_EA49B3B2
-#EXTINF:-1 tvg-id="KBS1.kr" tvg-name="광주KBS1" tvg-logo="https://i.imgur.com/OHHrLqv.png" group-title="General",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-name="광주KBS1" tvg-logo="https://i.imgur.com/OHHrLqv.png" group-title="General",KBS1 SD
 http://kr.kbstream.dpdns.org/kr.php?id=12_7066CF5A
-#EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="대구KBS1" tvg-logo="https://i.imgur.com/EMVWCh0.png" group-title="General",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="대구KBS1" tvg-logo="https://i.imgur.com/EMVWCh0.png" group-title="General",KBS1 SD
 http://kr.kbstream.dpdns.org/kr.php?id=13_B4E209CA
-#EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="대전KBS1" tvg-logo="https://i.imgur.com/co5JP79.png" group-title="General",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="대전KBS1" tvg-logo="https://i.imgur.com/co5JP79.png" group-title="General",KBS1 SD
 http://kr.kbstream.dpdns.org/kr.php?id=11_087155E9
-#EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="울산KBS1" tvg-logo="https://i.imgur.com/uKLgVLZ.png" group-title="General",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="울산KBS1" tvg-logo="https://i.imgur.com/uKLgVLZ.png" group-title="General",KBS1 SD
 http://kr.kbstream.dpdns.org/kr.php?id=14_ECE1A251
-#EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="부산KBS1" tvg-logo="https://i.imgur.com/2f6W60P.png" group-title="General",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="부산KBS1" tvg-logo="https://i.imgur.com/2f6W60P.png" group-title="General",KBS1 SD
 http://kr.kbstream.dpdns.org/kr.php?id=15_6B9253F0
 #EXTINF:-1 tvg-id="KBS2.kr"  tvg-name="KBS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/960px-KBS_2_logo.svg.png" group-title="General",KBS2
 http://kr.kbstream.dpdns.org/kr.php?id=3_2C9275B7
