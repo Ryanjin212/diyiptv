@@ -36,10 +36,16 @@ https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
 
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="KBC SBS" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="General",SBS KBC
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="KNN SBS" tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="General",SBS KNN
-https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="G1 SBS" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="General",SBS G1
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS.kr" tvg-name="JTV SBS" tvg-logo="https://i.imgur.com/byss0Ld.png" group-title="General",SBS JTV
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBS.kr" tvg-name="KNN SBS" tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="General",SBS KNN
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-id="SBS.kr" tvg-name="TBC SBS" tvg-logo="https://i.imgur.com/jknoVmp.png" group-title="General",SBS TBC
+http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
 
 
 
