@@ -28,6 +28,12 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_8_5706648C.m3u8
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="JIBS SBS" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="General",SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
+
+
+#EXTINF:-1 tvg-id="SBS.kr" tvg-name="UBC SBS" tvg-logo="https://i.imgur.com/BBCoqIf.png" group-title="General",SBS UBC
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
+
+
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="KBC SBS" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="General",SBS KBC
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="KNN SBS" tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="General",SBS KNN
