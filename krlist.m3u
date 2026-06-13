@@ -499,9 +499,9 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_514_101A00A4.m3u8
 
 #EXTINF:-1 tvg-id="복지TV.kr" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="未分类",WBC복지TV
 https://hls.midibus.kinxcdn.com/live/ch_19b36d47/19b81079d4dfc4f7/playlist.m3u8
-#EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",KFN국악방송
+#EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",KFN국방방송
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",KFN국악방송
+#EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",KFN국방방송
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="국회방송.kr" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="Legislative",NATV국회방송
 https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
