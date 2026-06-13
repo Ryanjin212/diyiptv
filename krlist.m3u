@@ -402,9 +402,9 @@ https://tving-live-o2-ktcdn.tving.com/o2/v1/019d6672d75d153d786553381d0d8/019d66
 
 
 
-#EXTINF:-1 tvg-id="KTV" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="未分类",KTV국민방송
+#EXTINF:-1 tvg-id="KTV" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="未分类",KTV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KTV" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="未分类",KTV국민방송
+#EXTINF:-1 tvg-id="KTV" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="未分类",KTV
 https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w667562990.m3u8
 #EXTINF:-1 tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="General",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
