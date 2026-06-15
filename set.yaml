@@ -51,16 +51,16 @@ proxies:
       host: sweet-cottoncandy.bitnd7ew.workers.dev 
 
 - name: vless-kr
-    type: vless
-    server: dev.aoliuqu.press
-    port: 16334
-    uuid: c68526b9-f9e1-49a3-9711-e57d5c717563
-    tls: true
-    udp: true
-    flow: xtls-rprx-vision  
-    reality-opts:
-      public-key: "PvorLjkLgwJHlv9XQfICVVPzkiD9G6cPXSijEKkEtA0"
-      short-id: "10f897e26c4b9478"
+  type: vless
+  server: dev.aoliuqu.press
+  port: 16334
+  uuid: c68526b9-f9e1-49a3-9711-e57d5c717563
+  tls: true
+  udp: true
+  flow: xtls-rprx-vision  
+  reality-opts:
+    public-key: "PvorLjkLgwJHlv9XQfICVVPzkiD9G6cPXSijEKkEtA0"
+    short-id: "10f897e26c4b9478"
 proxy-groups:
 - name: 🚀选择代理
   proxies:
