@@ -55,7 +55,7 @@ proxies:
   server: dev.aoliuqu.press
   network: tcp
   port: 16334
-   sni: www.microsoft.com
+  sni: www.microsoft.com
   alpn:
   - h2
   - http/1.1
