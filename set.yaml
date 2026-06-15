@@ -62,7 +62,7 @@ proxies:
   reality-opts:
     public-key: PvorLjkLgwJHlv9XQfICVVPzkiD9G6cPXSijEKkEtA0
     short-id: 10f897e26c4b9478
-- name: warp-wireguard节点                                   #可自定义名称
+- name: warp-wireguard                                 #可自定义名称
   type: wireguard         
   server: 115.91.26.19                                     #可自定义优选对端IP，与下面port的端口相对应
   port: 28474                                                 #可自定义优选对端IP，与上面server的IP相对应
@@ -85,7 +85,7 @@ proxy-groups:
   - 1_speednode_0155
   - 2_speednode_0155
   - vless-kr
-  - warp-wireguard节点
+  - warp-wireguard
   type: select
   url: https://www.google.com/
 - interval: 300
