@@ -54,6 +54,10 @@ proxies:
   type: vless
   server: dev.aoliuqu.press
   port: 16334
+   sni: www.microsoft.com
+  alpn:
+  - h2
+  - http/1.1
   uuid: c68526b9-f9e1-49a3-9711-e57d5c717563
   tls: true
   udp: true
