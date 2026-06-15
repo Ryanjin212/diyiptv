@@ -50,12 +50,11 @@ proxies:
     headers:
       host: sweet-cottoncandy.bitnd7ew.workers.dev 
 
-- name: VLESS-KR
+- name: vless-kr
     type: vless
     server: dev.aoliuqu.press
     port: 16334
     uuid: c68526b9-f9e1-49a3-9711-e57d5c717563
-    network: ws
     tls: true
     udp: true
     flow: xtls-rprx-vision  
