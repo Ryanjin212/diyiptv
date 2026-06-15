@@ -53,6 +53,7 @@ proxies:
 - name: vless-kr
   type: vless
   server: dev.aoliuqu.press
+  network: tcp
   port: 16334
    sni: www.microsoft.com
   alpn:
