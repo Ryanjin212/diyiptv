@@ -74,7 +74,7 @@ proxy-groups:
   proxies: &id001
   - 1_speednode_0155
   - 2_speednode_0155
-  - VLESS-KR
+  - vless-kr
   type: select
   url: https://www.google.com/
 - interval: 300
