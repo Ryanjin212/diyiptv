@@ -70,7 +70,7 @@ proxies:
   public-key: 5hJB13QNT4RBrNfaIC0fZ8Wsx+9/H/waeNe4gYNwN1c=
   private-key: YKlYeoccVYrXKsFUWPCDFHxAHM63HxHVRKc/WOlJaF0= #获取private-key，私ke
   udp: true
-- name: warp-kr                        #可自定义名称
+- name: warp-kr2                        #可自定义名称
   type: wireguard         
   server: 115.91.26.19                                     #可自定义优选对端IP，与下面port的端口相对应
   port: 28474                                                 #可自定义优选对端IP，与上面server的IP相对应
@@ -88,7 +88,7 @@ proxies:
   public-key: XlBw2sha/LNJWHOVlMSH6Ce86t+syUfoFL3jDpZqbT8=
   private-key: wOBy7hUiygk6pm0SVSjblTJfvuKZMaCqejIrzBFw2Vg=  #获取private-key，私key
   udp: true
-- name: warp-jp                              #可自定义名称
+- name: warp-jp2                              #可自定义名称
   type: wireguard         
   server: 185.135.76.929                                     #可自定义优选对端IP，与下面port的端口相对应
   port: 41266                                                 #可自定义优选对端IP，与上面server的IP相对应
@@ -111,7 +111,10 @@ proxy-groups:
   - 1_speednode_0155
   - 2_speednode_0155
   - vless-kr
-  - warp-wireguard
+  - warp-kr
+  - warp-kr2
+  - warp-jp
+  - warp-jp2
   type: select
   url: https://www.google.com/
 - interval: 300
