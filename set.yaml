@@ -59,8 +59,8 @@ proxies:
   udp: true
   flow: xtls-rprx-vision  
   reality-opts:
-    public-key: "PvorLjkLgwJHlv9XQfICVVPzkiD9G6cPXSijEKkEtA0"
-    short-id: "10f897e26c4b9478"
+    public-key: PvorLjkLgwJHlv9XQfICVVPzkiD9G6cPXSijEKkEtA0
+    short-id: 10f897e26c4b9478
 proxy-groups:
 - name: 🚀选择代理
   proxies:
