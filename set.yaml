@@ -95,7 +95,7 @@ proxies:
   ip: 10.0.14.40/16
   ipv6: fd10:10:10:0:10:0:14:40/64               #与private-key相对应，如删除本行，表示仅IPV4
   public-key: rSR8kvRauGHlg5kbSKdRtS22JAffBJqvPAPNPFgzJU0=
-  private-key: 3vhklPavV1ZDZ7vkenfzeGLgI53vu7MztNv/l0=  #获取private-key，私key
+  private-key: yBTn/3vhklPavV1ZDZ7vkenfzeGLgI53vu7MztNv/l0=  #获取private-key，私key
   udp: true
 proxy-groups:
 - name: 🚀选择代理
