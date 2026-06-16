@@ -86,7 +86,7 @@ proxies:
   ip: 10.0.10.116/16
   ipv6: fd10:10:10:0:10:0:10:116/64               #与private-key相对应，如删除本行，表示仅IPV4
   public-key: XlBw2sha/LNJWHOVlMSH6Ce86t+syUfoFL3jDpZqbT8=
-  private-key: wOBy7hUiygk6pm0SVSjblTJfvuKZMaCqejIrzBFw2Vg=  #获取private-key，私key
+  private-key: wOBy7hUiygk6pm0SVSjblTJfvuKZMaCqejIrzBFw2Vg=
   udp: true
 - name: warp-jp2                              #可自定义名称
   type: wireguard         
