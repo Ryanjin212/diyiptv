@@ -81,7 +81,7 @@ proxies:
   udp: true
 - name: warp-jp                              #可自定义名称
   type: wireguard         
-  server: 185.135.77.156                                     #可自定义优选对端IP，与下面port的端口相对应
+  server: 185.135.77.156                  #可自定义优选对端IP，与下面port的端口相对应
   port: 41298                                                 #可自定义优选对端IP，与上面server的IP相对应
   ip: 10.0.10.116/16
   ipv6: fd10:10:10:0:10:0:10:116/64               #与private-key相对应，如删除本行，表示仅IPV4
@@ -90,7 +90,7 @@ proxies:
   udp: true
 - name: warp-jp2                              #可自定义名称
   type: wireguard         
-  server: 185.135.76.929                                     #可自定义优选对端IP，与下面port的端口相对应
+  server: 185.135.76.92                                    #可自定义优选对端IP，与下面port的端口相对应
   port: 41266                                                 #可自定义优选对端IP，与上面server的IP相对应
   ip: 10.0.14.40/16
   ipv6: fd10:10:10:0:10:0:14:40/64               #与private-key相对应，如删除本行，表示仅IPV4
