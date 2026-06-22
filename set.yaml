@@ -172,10 +172,19 @@ proxy-groups:
 - name: 🗺️选择地区
   proxies:
   - 🇯🇵日本
+  - 🇰🇷한국
+  type: select
+- name: 🇰🇷한
+  proxies:
+  - vless-kr
+  - warp-kr
+  - warp-kr2
+  - 2_speednode_jp
   type: select
 - name: 🇯🇵日本
   proxies:
-  - 1_speednode_0155
+  - warp-jp
+  - warp-jp2
   - 2_speednode_jp
   type: select
 rules:
