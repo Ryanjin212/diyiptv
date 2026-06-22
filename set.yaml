@@ -176,7 +176,7 @@ proxy-groups:
 - name: 🇯🇵日本
   proxies:
   - 1_speednode_0155
-  - 2_speednode_0155
+  - 2_speednode_jp
   type: select
 rules:
 - IP-CIDR,154.7.80.158/32,⛔广告拦截
