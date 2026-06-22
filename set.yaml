@@ -174,7 +174,7 @@ proxy-groups:
   - 🇯🇵日本
   - 🇰🇷한국
   type: select
-- name: 🇰🇷한
+- name: 🇰🇷한국
   proxies:
   - vless-kr
   - warp-kr
