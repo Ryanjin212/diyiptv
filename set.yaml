@@ -119,6 +119,8 @@ proxy-groups:
   - 🔰延迟最低
   - ✅手动选择
   - 🗺️选择地区
+  - 🇯🇵日本
+  - 🇰🇷韩国
   type: select
 - interval: 300
   name: ♻自动选择
