@@ -1,0 +1,85 @@
+NXT@AXN
+BTN@
+CBS@
+CJONSTYLE@
+CJONSTYLE+@
+CMC@
+CNTV@
+CTS@
+EBS1@
+EBS2@
+EBSi@
+EBS@
+EDGE@
+KBS Story@ETN연예
+E채널@
+chNOW@FOX채널
+FTV@
+FUN TV@
+GS SHOP@GS Shop
+GS MY SHOP@GS마이샵
+GTV@GTV
+JTBC@jTBC
+JTBC2@
+JTBC3@
+JTBC4@
+K Star@K star
+KBS JOY@KBS JOY
+KBSNSPORTS@KBSN스포츠
+KBS Drama@KBS드라마
+SBS KNN@KOREA NEW NETWORK
+KTV@KTV
+Kt알파쇼핑@K쇼핑
+Mnet@M.net
+MBC@MBC DTV
+MBC Everyone@MBC Eve
+MBC ON@MBC ON
+SBS Sports@MBC드라마넷
+MBC SORTS+@MBC스포츠+
+MBN@MBN
+Mplex@Mplex
+NHK프리미엄@NHK프리미엄
+NS홈쇼핑Plus@NS샵플러스
+NS홈쇼핑@NS홈쇼핑
+OCN@OCN
+OCNMovies@OCN무비즈
+방송대학TV@OUN
+TVN DRAMA@OtvN
+SBS Biz@SBS Biz
+SBS funE@SBSfunE
+THE MOVIE@SBS스포츠
+SBS Plus@SBS플러스
+SK 스토아@SK스토아
+SPOTV@SPOTV
+SPOTV2@SPOTV2
+채널A Plus@TV아시아
+TV조선@TV조선
+W쇼핑@W쇼핑
+tvN SHOW@XtvN
+YTN@YTN
+tvN@tvN
+tvN스토리@tvN스토리
+LG헬로비젼@가야방송
+공영쇼핑@공영쇼핑
+국회방송@국회TV
+Xone@다큐원
+the LIFE2@더드라마
+the LIfE@더라이프
+DRAMACUBE@드라마큐브
+Dramax@드라맥스
+롯데홈쇼핑@롯데홈쇼핑
+바둑TV@바둑TV
+복지TV@복지TV
+KBS1@부산 KBS1
+KBS2@부산 KBS2
+채널뷰@뷰
+STB상생방송@상생TV
+쇼핑엔티@쇼핑엔T
+ENA@스카이드라마
+ENA Play@스카이엔터
+스크린@스크린
+신세계쇼핑@신세계쇼핑
+
+
+
+
