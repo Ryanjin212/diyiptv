@@ -1,28 +1,28 @@
 NXT@AXN
-BTN@
-CBS@
-CJONSTYLE@
-CJONSTYLE+@
-CMC@
-CNTV@
-CTS@
-EBS1@
-EBS2@
-EBSi@
-EBS@
-EDGE@
+BTN@BTN불교TV
+CBS@CBS
+CJONSTYLE@CJ온스타일
+CJONSTYLE+@CJ온스타일+
+CMC@CMC TV
+CNTV@CNTV
+CTS@CTS
+EBS1@EBS Digital
+EBS2@EBS Digital
+EBSi@EBS플러스1
+EBS@EBS플러스2
+EDGE@EDGE TV
 KBS Story@ETN연예
-E채널@
+E채널@E채널
 chNOW@FOX채널
-FTV@
-FUN TV@
+FTV@FTV
+FUN TV@FUN TV
 GS SHOP@GS Shop
 GS MY SHOP@GS마이샵
 GTV@GTV
 JTBC@jTBC
-JTBC2@
-JTBC3@
-JTBC4@
+JTBC2@JTBC2
+JTBC3@JTBC3
+JTBC4@JTBC4
 K Star@K star
 KBS JOY@KBS JOY
 KBSNSPORTS@KBSN스포츠
@@ -61,12 +61,14 @@ tvN@tvN
 tvN스토리@tvN스토리
 LG헬로비젼@가야방송
 공영쇼핑@공영쇼핑
+공지채널@공지채널
 국회방송@국회TV
 Xone@다큐원
 the LIFE2@더드라마
 the LIfE@더라이프
 DRAMACUBE@드라마큐브
-Dramax@드라맥스
+Dramax@
+롯데ONE T@롯데ONE T
 롯데홈쇼핑@롯데홈쇼핑
 바둑TV@바둑TV
 복지TV@복지TV
@@ -79,7 +81,23 @@ ENA@스카이드라마
 ENA Play@스카이엔터
 스크린@스크린
 신세계쇼핑@신세계쇼핑
-
-
-
-
+아리랑TV@아리랑TV
+아이넷@아이넷
+연합뉴스TV@연합뉴스TV
+온스타일@온스타일
+재능방송@재능방송
+직업방송@직업방송
+채널 A@채널 A
+채널 J@채널 J
+채널S@채널S
+채널차이나@채널차이나
+채널칭@채널칭
+챔프@챔프
+코미디TV@코미디TV
+투니버스@투니버스
+평화방송@평화방송
+하이라이트TV@하이라이트TV
+한국경제TV@한국경제TV
+현대홈쇼핑@현대홈쇼핑
+현대홈쇼핑+샵@현대홈쇼핑+샵
+홈앤쇼핑@홈앤쇼핑
