@@ -7,7 +7,7 @@ CMC@@CMC TV
 CNTV@@CNTV
 CTS@@CTS
 EBS1@@,EBS Digital,
-EBS2@@EBS Digital
+EBS2@@,EBS Digital,
 EBSi@@EBS플러스1
 EBS@@EBS플러스2
 EDGE@@EDGE TV
