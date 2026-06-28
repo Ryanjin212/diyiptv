@@ -1,3 +1,4 @@
+ChannelFixedName@ChannelFixedID@Channelname
 NXT@AXN.kr@AXN
 BTN@BTN.kr@BTN불교TV
 CBS@@CBS
