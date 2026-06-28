@@ -143,6 +143,7 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s1/playlist.m3u8
 http://124.222.153.240/kakaotv/get_channel.php?channel=inet#.m3u8
 
 
+#EXTINF:-1 tvg-id="CBSTV.kr" tvg-name="CBS TV" tvg-logo="https://i.imgur.com/WHDU8F3.png" group-title="Lifestyle & Religion",CBS TV
 
 
 #EXTINF:-1 tvg-id="채널A.kr" tvg-name="Channel A" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="General TV",Channel A
@@ -169,6 +170,26 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019d668fbfde153d786553381d0db/019d669
 
 #EXTINF:-1 tvg-id="중화TV.kr" tvg-name="Chunghwa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/84/%EC%A4%91%ED%99%94TV_logo.png" group-title="Movies & Entertainment",중화TV
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d66649d0f153d786553381d0d4/019d66655dd4153d786553381d0d7/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODEzNTI5ODcsInBhdGgiOiIvbzIifQ.S8X1YAWhtXqcTt2RgmhSyvn-Rdh03Lrp5Tcuj_Ifq6Y
+
+#EXTINF:-1 tvg-id="중화TV.kr" tvg-name="Channel China" tvg-logo="https://i.imgur.com/Au21r7u.png" group-title="Movies & Entertainment",Channel China
+
+#EXTINF:-1 tvg-id="중화TV.kr" tvg-name="Chunghwa TV" tvg-logo="https://i.imgur.com/LeqtIOO.png" group-title="Movies & Entertainment",CHING
+
+
+#EXTINF:-1 tvg-id="채널 J.kr" tvg-name="채널 J" tvg-logo="https://i.imgur.com/PeCtsdP.png" group-title="Movies & Entertainment",채널 J
+
+#EXTINF:-1 tvg-id="Ch View.kr" tvg-name="Ch View" tvg-logo="https://i.imgur.com/zC6nd31.png" group-title="Movies & Entertainment",Ch View
+
+
+
+#EXTINF:-1 tvg-id="the LIFE.kr" tvg-name="the LIFE" tvg-logo="https://i.imgur.com/zC6nd31.png" group-title="Movies & Entertainment",the LIFE
+
+
+#EXTINF:-1 tvg-id="the LIFE2.kr" tvg-name="the LIFE2" tvg-logo="https://i.imgur.com/zC6nd31.png" group-title="Movies & Entertainment",the LIFE2
+
+
+#EXTINF:-1 tvg-id="FunTV.kr" tvg-name="FUNTV" tvg-logo="https://i.imgur.com/9rfo7O3.png" group-title="Movies & Entertainment",FUN TV
+
 
 
 
@@ -282,6 +303,14 @@ https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
+#EXTINF:-1 tvg-id="DRAMACUBE.kr" tvg-name="DRAMACUBE" tvg-logo="https://i.imgur.com/DdMgO2K.png" group-title="Movies & Entertainment",DRAMACUBE
+
+#EXTINF:-1 tvg-id="Dramax.kr" tvg-name="Dramax" tvg-logo="https://i.imgur.com/o8ZXlxf.png" group-title="Movies & Entertainment",Dramax
+
+
+#EXTINF:-1 tvg-id="HighlightTV.kr" tvg-name="HighlightTV" tvg-logo="https://i.imgur.com/4FJP1ze.png" group-title="Movies & Entertainment",하이라이트TV
+
+
 
 #EXTINF:-1 tvg-id="OBS.kr" tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="General",OBS
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_55.m3u8
@@ -322,6 +351,41 @@ https://jmp2.uk/stvp-KR1900001KQ
 http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies#.m3u8
 #EXTINF:-1 tvg-id="OCN Movies2.kr" tvg-name="OCN Movies 2" tvg-logo="https://iptv-epg.org/images/f_WettiaHXupK6lpHdzmouu1E8KXzrDMRIayFCSP0ovgvGgRoubovr0y2VocvfiMzAcBbXsmQVANa12kb6h9pXF9yOmgd-zwYPejj7XlL0-jdw" group-title="Movies & Entertainment",OCN Movies 2
 http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2#.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Mplex.kr" tvg-name="Mplex" tvg-logo="https://i.imgur.com/UjQpJKx.png" group-title="Movies & Entertainment",Mplex
+
+#EXTINF:-1 tvg-id="THE MOVIE.kr" tvg-name="THE MOVIE" tvg-logo="https://i.imgur.com/Rsunizo.png" group-title="Movies & Entertainment",THE MOVIE
+
+
+#EXTINF:-1 tvg-id="Screen" tvg-name="Screen" tvg-logo="https://i.imgur.com/1NpIrAF.png" group-title="Movies & Entertainment",Screen
+
+
+#EXTINF:-1 tvg-id="Xone" tvg-name="Xone" tvg-logo="" group-title="Movies & Entertainment",Xone
+
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies & Entertainment",AXN
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20260422T014048SQUARE.png" group-title="未分类",씨네21+
 https://jmp2.uk/stvp-KRBD26000011V
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20260422T014048SQUARE.png" group-title="未分类",씨네21+
@@ -470,6 +534,29 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=fishing_tv#.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Fishing TV" tvg-logo="" group-title="Sports & Leisure",CMC TV
+
+#EXTINF:-1 tvg-id="" tvg-name="Fishing TV" tvg-logo="" group-title="Sports & Leisure",CNTV
+
+#EXTINF:-1 tvg-id="CTSTV.kr" tvg-name="CTS TV" tvg-logo="https://i.imgur.com/z3L8uNB.png" group-title="Sports & Leisure",CTS TV
+
+#EXTINF:-1 tvg-id="EdgeTV.kr" tvg-name="Fishing TV" tvg-logo="https://i.imgur.com/y65DED8.png" group-title="Sports & Leisure",Edge TV
+
+#EXTINF:-1 tvg-id="EChannel.kr" tvg-name="Fishing TV" tvg-logo="https://i.imgur.com/dXaJ37Z.png" group-title="Sports & Leisure",E채널
+
+#EXTINF:-1 tvg-id="" tvg-name="Fishing TV" tvg-logo="" group-title="Sports & Leisure",chNOW
+
+#EXTINF:-1 tvg-id="GTV.kr" tvg-name="Fishing TV" tvg-logo="https://i.imgur.com/02ic07h.png" group-title="Sports & Leisure",GTV
+
+#EXTINF:-1 tvg-id="" tvg-name="Fishing TV" tvg-logo="" group-title="Sports & Leisure",LG헬로비젼
+
+#EXTINF:-1 tvg-id="" tvg-name="Fishing TV" tvg-logo="" group-title="Sports & Leisure",공지채널
+
+#EXTINF:-1 tvg-id="JEITalentTV.kr" tvg-name="JEI재능TV" tvg-logo="https://i.imgur.com/8y3oQsY.png" group-title="Sports & Leisure",JEI재능TV
+
+#EXTINF:-1 tvg-id="" tvg-name="Fishing TV" tvg-logo="" group-title="Sports & Leisure",챔프
+
+
 
 
 
@@ -488,6 +575,9 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_59.m3u8
 
 #EXTINF:-1 tvg-id="서울경제TV.kr" group-title="未分类",서울경제TV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_527_C6413288.m3u8
+
+#EXTINF:-1 tvg-id="한국경제TV.kr" tvg-logo="https://i.imgur.com/fGQatSH.png" group-title="未分类",한국경제TV
+
 
 #EXTINF:-1 tvg-id="매일경제TV.kr" tvg-name="MBN Money TV" tvg-logo="https://i.ytimg.com/vi/s9xL1DpBsfQ/hq720.jpg" group-title="News & Information",MBN Money TV
 http://mmoney.flive.skcdn.com/mmoneymobile/smil:money.smil/playlist.m3u8
@@ -519,6 +609,10 @@ https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="NBS한국농업방송" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="未分类",NBS한국농업방송
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STB상생방송" tvg-logo="https://i.imgur.com/MTGJD0m.png" group-title="未分类",STB상생방송
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="C Channel.kr" tvg-logo="https://i.ibb.co/GC73Fxt/logo.png" group-title="未分类",C채널
 http://112.175.51.214:1935/live/myStream/playlist.m3u8
 
@@ -527,9 +621,10 @@ http://112.175.51.214:1935/live/myStream/playlist.m3u8
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d668d94731eb80e796d9bd9cae/019d668e57a61eb80e796d9bd9cb1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODEzNTI5OTMsInBhdGgiOiIvbzIifQ.gpQ0fwn6ALlwipjHdY5jpxjmwc55lSbXOOtfdohiGeQ
 
 
+#EXTINF:-1 tvg-id="NHK프리미엄.kr" tvg-name="NHK프리미엄" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Lifestyle & Religion",NHK World
 
 
-#EXTINF:-1 tvg-id="NHK WORLD-JAPAN.kr" tvg-name="NHK World" tvg-logo="https://devmedia.discovernikkei.org/articles/6844/NHK.jpg" group-title="Lifestyle & Religion",NHK World
+#EXTINF:-1 tvg-id="NHK WORLD-JAPAN.kr" tvg-name="NHK World" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Lifestyle & Religion",NHK World
 http://124.222.153.240/kakaotv/get_channel.php?channel=nhk_world#.m3u8
 
 #EXTINF:-1 tvg-name="News Today" tvg-logo="https://d2gpx7np84fwh1.cloudfront.net/media-io/2025/5/22/02NewsToday_logo.44f.9e6d94e2.png?width=384" group-title="News & Information",News Today
@@ -604,3 +699,12 @@ https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SK stoa.kr" tvg-logo="https://i.imgur.com/dhuDviW.png" group-title="Shop",SK stoa
 http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lotte OneTV.kr" tvg-logo="https://i.imgur.com/bXe7tYE.png" group-title="Shop",Lotte OneTV
+
+#EXTINF:-1 tvg-id="Shopping NT.kr" tvg-logo="https://i.imgur.com/BgbJp5X.png" group-title="Shop",Shopping NT
+
+
+#EXTINF:-1 tvg-id="Kt알파쇼핑.kr" tvg-logo="" group-title="Shop",Kt알파쇼핑
+
+
