@@ -131,10 +131,9 @@ http://jm14.modhospital.kr:9981/stream/channelid/80?ticket=51FE0931D52108D6CB0C2
 
 
 #EXTINF:-1 tvg-id="the LIFE.kr" tvg-name="the LIFE" tvg-logo="https://i.imgur.com/zC6nd31.png" group-title="Movies & Entertainment",the LIFE
-http://jm14.modhospital.kr:9981/stream/channelid/12?ticket=606E60F5A6E2CE92EF0A46FA002B9749BF297061
-
-#EXTINF:-1 tvg-id="the LIFE2.kr" tvg-name="the LIFE2" tvg-logo="https://i.imgur.com/zC6nd31.png" group-title="Movies & Entertainment",the LIFE2
 http://jm14.modhospital.kr:9981/stream/channelid/11?ticket=EFD7E207220EE911E2A58AC925D3A8270B90E14E
+#EXTINF:-1 tvg-id="the LIFE2.kr" tvg-name="the LIFE2" tvg-logo="https://i.imgur.com/zC6nd31.png" group-title="Movies & Entertainment",the LIFE2
+http://jm14.modhospital.kr:9981/stream/channelid/12?ticket=606E60F5A6E2CE92EF0A46FA002B9749BF297061
 
 #EXTINF:-1 tvg-id="FunTV.kr" tvg-name="FUNTV" tvg-logo="https://i.imgur.com/9rfo7O3.png" group-title="Movies & Entertainment",FUN TV
 http://jm14.modhospital.kr:9981/stream/channelid/59?ticket=C86059B74E9295C22746A265A01CE783372C1126
