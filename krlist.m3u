@@ -93,8 +93,6 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s1/playlist.m3u8
 http://124.222.153.240/kakaotv/get_channel.php?channel=inet#.m3u8
 
 
-#EXTINF:-1 tvg-id="CBSTV.kr" tvg-name="CBS TV" tvg-logo="https://i.imgur.com/WHDU8F3.png" group-title="Lifestyle & Religion",CBS
-http://jm14.modhospital.kr:9981/stream/channelid/73?ticket=3BE53EEF701EA06EBA60AFC80CB82FC67297EBF8
 
 #EXTINF:-1 tvg-id="채널A.kr" tvg-name="Channel A" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="General TV",채널A
 https://amg01923-amg01923c86-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c86-amgplt0187/playlist.m3u8
@@ -662,6 +660,9 @@ http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="FGTV.kr" tvg-name="FGTV" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png" group-title="Lifestyle & Religion",FGTV
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSTV.kr" tvg-name="CBS TV" tvg-logo="https://i.imgur.com/WHDU8F3.png" group-title="Lifestyle & Religion",CBS
+http://jm14.modhospital.kr:9981/stream/channelid/73?ticket=3BE53EEF701EA06EBA60AFC80CB82FC67297EBF8
+
 
 
 
