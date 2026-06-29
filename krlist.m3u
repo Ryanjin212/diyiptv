@@ -250,9 +250,9 @@ https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 tvg-id="DRAMACUBE.kr" tvg-name="DRAMACUBE" tvg-logo="https://i.imgur.com/DdMgO2K.png" group-title="Movies & Entertainment",DRAMACUBE
+#EXTINF:-1 tvg-id="DRAMACUBE.kr" tvg-name="DRAMACUBE" tvg-logo="https://i.imgur.com/DdMgO2K.png" group-title="Movies & Entertainment",드라마큐브
 http://jm14.modhospital.kr:9981/stream/channelid/101?ticket=1A26A691252D331E26530BC762F9CEC2B4B3CEB7
-#EXTINF:-1 tvg-id="Dramax.kr" tvg-name="Dramax" tvg-logo="https://i.imgur.com/o8ZXlxf.png" group-title="Movies & Entertainment",Dramax
+#EXTINF:-1 tvg-id="Dramax.kr" tvg-name="Dramax" tvg-logo="https://i.imgur.com/o8ZXlxf.png" group-title="Movies & Entertainment",드라맥스
 http://jm14.modhospital.kr:9981/stream/channelid/38?ticket=AD4830E8E84587ED1D2B15625AC09BAD1B5B4F70
 
 #EXTINF:-1 tvg-id="HighlightTV.kr" tvg-name="HighlightTV" tvg-logo="https://i.imgur.com/4FJP1ze.png" group-title="Movies & Entertainment",하이라이트TV
@@ -396,7 +396,7 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 https://tving-live-o2-ktcdn.tving.com/o2/v1/019dd8ef15b31eb80e7925af014fca/019dd8ef8adc1eb80e7925af014fcd/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxMzUzMDA4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Gar5qLldoSjFpn0dJnxAPaQ-Mtqp05CDz26cqzL36QEgVd71gJiqSI-NFeHGZYW~HZ7tUFQe67W4RPwlpOdTqyFB5oCrOTWK4Vs9YbqTW-yNdaGAuD4yu9MGdtGC~8XiqQdUERvodc3KFVZPxG0Pn0i91pfDb6DEJhmPe9zA0vANMf-SJIZfShHIy~cjJdFvtHjErKo0QgVWSzgUX07Qw67Usgp6z4zbLZKq53Rn8~ygy7kEGKuqWHeXk0W6U-N6J5zT6Z5rGaM5AoSI9fU6xuMklFBkllkSgvD4P9NIZzB1F6S0Y4cAWD~r4NlsRD~f9CcZ1iPpzCx908t1n5u9wg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 tvg-id="애니맥스.kr" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png" group-title="Kids & Animation",Animax
 https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8e9cdf51eb80e7925af014fc2/019dd8ea6ac81eb80e7925af014fc5/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODEzNTMwMDUsInBhdGgiOiIvbzIifQ.X3t90IPoIhITCUJQDqzEsrx8szwL7tMSEQymGtfe08A
-#EXTINF:-1 tvg-id="AniOne.kr" tvg-name="AniOne" tvg-logo="https://i.imgur.com/2zq8PDL.png" group-title="Kids & Animation",Anione
+#EXTINF:-1 tvg-id="AniOne.kr" tvg-name="AniOne" tvg-logo="https://i.imgur.com/2zq8PDL.png" group-title="Kids & Animation",AniOne
 http://124.222.153.240/kakaotv/get_channel.php?channel=kids_tv#.m3u8
 #EXTINF:-1 tvg-id="애니플러스.kr" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/ZDDMrQG.png" group-title="Kids & Animation",Aniplus
 https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8e090841eb80e7925af014fbd/019dd8e1306f1eb80e7925af014fc0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODEzNTMwMTIsInBhdGgiOiIvbzIifQ.a193QqwMJN6qbHv5ApEDJnZh5JLN_X92og9kXQNPeyM
@@ -495,8 +495,7 @@ http://jm14.modhospital.kr:9981/stream/channelid/6?ticket=9682552A9B078D841721CF
 
 #EXTINF:-1 tvg-id="JEITalentTV.kr" tvg-name="JEI재능TV" tvg-logo="https://i.imgur.com/8y3oQsY.png" group-title="Sports & Leisure",재능방송
 http://jm14.modhospital.kr:9981/stream/channelid/61?ticket=CF989692A2563DA4B73DF8E9AB2345208A204953
-#EXTINF:-1 tvg-id="" tvg-name="Fishing TV" tvg-logo="" group-title="Sports & Leisure",챔프
-http://jm14.modhospital.kr:9981/stream/channelid/94?ticket=1FD596CF0057E710BFE2D3D7BBE130F8A46DA19B
+
 
 
 
