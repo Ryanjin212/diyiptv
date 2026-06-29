@@ -1,104 +1,313 @@
 ChannelFixedName@ChannelFixedID@ChannelFixedLogo@Channelname
-NXT@AXN.kr@AXN
-BTN@BTN.kr@BTN불교TV
-CBS@@CBS
-CJONSTYLE@@CJ온스타일
-CJONSTYLE+@@CJ온스타일+
-CMC@@CMC TV
-CNTV@@CNTV
-CTS@@CTS
-EBS1@EBS1.kr@,EBS Digital,
-EBS2@EBS2.kr@,EBS Digital,
-EBSi@@EBS플러스1
-EBS@@EBS플러스2
-EDGE@@EDGE TV
-KBS Story@@ETN연예
-E채널@@E채널
-chNOW@@FOX채널
-FTV@@FTV
-FUN TV@@FUN TV
-GS SHOP@@GS Shop
-GS MY SHOP@@GS마이샵
-GTV@@GTV
-JTBC@@jTBC
-JTBC2@@JTBC2
-JTBC3@@JTBC3
-JTBC4@@JTBC4
-K Star@@K star
-KBS JOY@@KBS JOY
-KBSNSPORTS@@KBSN스포츠
-KBS Drama@@KBS드라마
-SBS KNN@@KOREA NEW NETWORK
-KTV@@KTV
-Kt알파쇼핑@@K쇼핑
-M.net@@,Mnet,
-MBC@@MBC DTV
-MBC Everyone@@MBC Eve
-MBC ON@@MBC ON
-SBS Sports@@MBC드라마넷
-MBC SORTS+@@MBC스포츠+
-MBN@@MBN
-Mplex@@Mplex
-NHK프리미엄@@NHK프리미엄
-NS홈쇼핑Plus@@NS샵플러스
-NS홈쇼핑@@NS홈쇼핑
-OCN@@OCN
-OCNMovies@@OCN무비즈
-방송대학TV@@OUN
-TVN DRAMA@@OtvN
-SBS Biz@@SBS Biz
-SBS funE@@SBSfunE
-THE MOVIE@@SBS스포츠
-SBS Plus@@SBS플러스
-SK 스토아@@SK스토아
-SPOTV@@SPOTV
-SPOTV2@@SPOTV2
-채널A Plus@@TV아시아
-TV조선@@TV조선
-W쇼핑@@W쇼핑
-tvN SHOW@@XtvN
-YTN@@YTN
-tvN@@tvN
-tvN스토리@@tvN스토리
-LG헬로비젼@@가야방송
-공영쇼핑@@공영쇼핑
-공지채널@@공지채널
-국회방송@@국회TV
-Xone@@다큐원
-the LIFE2@@더드라마
-the LIfE@@더라이프
-DRAMACUBE@@드라마큐브
-Dramax@@
-롯데ONE T@@롯데ONE T
-롯데홈쇼핑@@롯데홈쇼핑
-바둑TV@@바둑TV
-복지TV@@복지TV
-KBS1@@부산 KBS1
-KBS2@@부산 KBS2
-채널뷰@@뷰
-STB상생방송@@상생TV
-쇼핑엔티@@쇼핑엔T
-ENA@@스카이드라마
-ENA Play@@스카이엔터
-스크린@@스크린
-신세계쇼핑@@신세계쇼핑
-아리랑TV@@아리랑TV
-아이넷@@아이넷
-연합뉴스TV@@연합뉴스TV
-온스타일@@온스타일
-재능방송@@재능방송
-직업방송@@직업방송
-채널 A@@채널 A
-채널 J@@채널 J
-채널S@@채널S
-채널차이나@@채널차이나
-채널칭@@채널칭
-챔프@@챔프
-코미디TV@@코미디TV
-투니버스@@투니버스
-평화방송@@평화방송
-하이라이트TV@@하이라이트TV
-한국경제TV@@한국경제TV
-현대홈쇼핑@@현대홈쇼핑
-현대홈쇼핑+샵@@현대홈쇼핑+샵
-홈앤쇼핑@@홈앤쇼핑
+9colors@9colors.kr@https://i.imgur.com/hHuYqA0.png@,9colors,
+ABN@ABN.kr@https://www.abn.co.kr/resources/images/logo.png@,ABN,
+All the K-Pop@AlltheKPop.kr@https://i.imgur.com/IFLXi6n.png@,All the K-Pop,
+Anibox@Anibox.kr@https://i.imgur.com/5SZfGmy.png@,Anibox,ANIBOX,
+Animax@Animax.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png@,Animax,
+Anione@Anione.kr@https://i.imgur.com/2zq8PDL.png@,Anione,AniOne,
+Aniplus@Aniplus.kr@https://i.imgur.com/ZDDMrQG.png@,Aniplus,
+Arirang Radio@ArirangRadio.kr@https://i.imgur.com/dtfiG9k.png@,Arirang Radio,
+아리랑TV@ArirangTV.kr@https://i.imgur.com/Asu5pE9.png@,Arirang TV,아리랑TV,Arirang Korea,
+Arirang UN@ArirangUN.kr@https://i.imgur.com/Jdy3WNm.png@,Arirang UN,
+Arirang World@ArirangWorld.kr@https://i.imgur.com/5Aoithj.png@,Arirang World,
+Art TV Arte@ArtTVArte.kr@https://i.imgur.com/2LMURWO.png@,Art TV Arte,
+Asia UHD@AsiaUHD.kr@https://i.imgur.com/Sl5Shjg.png@,Asia UHD,
+AsiaM@AsiaM.kr@https://i.imgur.com/UgZXkzN.png@,AsiaM,
+AsiaN@AsiaN.kr@https://i.imgur.com/DHJjmW5.png@,AsiaN,
+AXN@AXN.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png@,AXN,
+바둑TV@BadukTV.kr@https://i.imgur.com/o7y72cu.png@,Baduk TV,바둑TV,
+BallTV@BallTV.kr@https://i.imgur.com/6eOy4Ln.png@,BallTV,
+BBS TV@BBSTV.kr@https://i.imgur.com/01UmXRe.png@,BBS TV,BBS,
+Billiards TV@BilliardsTV.kr@https://i.imgur.com/fo1k0Oj.png@,Billiards TV,
+Brain TV@BrainTV.kr@https://i.imgur.com/uF5jZbl.png@,Brain TV,
+Bravo Kids@BravoKids.kr@https://i.imgur.com/UhqgvVW.png@,Bravo Kids,
+BTN불교TV@BTNTV.kr@https://i.imgur.com/sOoS7RQ.png@,BTN TV,BTN불교TV，
+C channel@Cchannel.kr@https://i.ibb.co/GC73Fxt/logo.png@,C channel,
+Carrie TV@CarrieTV.kr@https://i.imgur.com/M8aEK6A.png@,Carrie TV,
+Cartoon Network@CartoonNetwork.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cartoon_Network_Korea_Logo.png/960px-Cartoon_Network_Korea_Logo.png@,Cartoon Network,
+Catch On 1@CatchOn1.kr@https://i.imgur.com/yRbmjEH.png@,Catch On 1,
+Catch On 2@CatchOn2.kr@https://i.imgur.com/fV9sZnn.png@,Catch On 2,
+CBS@CBSTV.kr@https://i.imgur.com/WHDU8F3.png@,CBS TV,CBS,
+CGNTV South Korea@CGNTVSouthKorea.kr@https://i.imgur.com/zwZASOB.png@,CGNTV South Korea,
+채널 View@ChView.kr@https://i.imgur.com/zC6nd31.png@,Ch View,채널 View,
+Ch W@ChW.kr@https://i.imgur.com/D59xG3Y.png@,Ch W,
+CH.WIDE@CHWIDE.kr@https://i.imgur.com/ZHEWW0O.png@,CH.WIDE,
+채널A@ChannelA.kr@https://i.imgur.com/W9laHPD.png@,Channel A,채널 A,채널A,
+Channel A Plus@ChannelAPlus.kr@https://i.imgur.com/2t4Y5FP.png@,Channel A Plus,
+채널차이나@ChannelChina.kr@https://i.imgur.com/Au21r7u.png@,Channel China,채널차이나,
+채널 J@ChannelJ.kr@https://i.imgur.com/PeCtsdP.png@,Channel J,채널 J,
+Channel Olleh TV@ChannelOllehTV.kr@https://i.imgur.com/nEF0sHT.png@,Channel Olleh TV,
+Channel Seezn@ChannelSeezn.kr@https://i.imgur.com/ncr9YaG.png@,Channel Seezn,
+채널칭@CHING.kr@https://i.imgur.com/LeqtIOO.png@,CHING,채널칭,
+Chunghwa TV@ChunghwaTV.kr@https://upload.wikimedia.org/wikipedia/zh/8/84/%EC%A4%91%ED%99%94TV_logo.png@,Chunghwa TV,
+Cinema Heaven@CinemaHeaven.kr@https://i.imgur.com/PicIdv6.png@,Cinema Heaven,
+CJ온스타일@CJOnStyle.kr@https://i.imgur.com/JiSfEBv.png@,CJ OnStyle,CJ온스타일,
+CJ온스타일+@CJOnStylePlus.kr@https://i.imgur.com/OYmOL20.png@,CJ OnStyle+,CJ온스타일+,CJ OnStyle Plus,
+CookTV@CookTV.kr@https://i.imgur.com/LUhuy8Y.png@,CookTV,
+코미디TV@코미디TV.kr@https://ihq.co.kr/channel/wp-content/uploads/sites/9/2024/01/comedytv_logo.png@,Comedy TV,코미디TV,
+Copa del Rey@CopadelRey.kr@@,Copa del Rey,
+CPBC평화방송@CPBCTV.kr@https://i.imgur.com/Psy4IBg.png@,CPBC TV,CPBC평화방송,CPBC (가톨릭 평화방송),
+CTS@CTSTV.kr@https://i.imgur.com/z3L8uNB.png@,CTS TV,CTS,
+D-One@DOne.kr@https://i.imgur.com/c2qSWTH.png@,D-One,
+Daekyo Kids TV@DaekyoKidsTV.kr@https://i.imgur.com/mtREJdH.png@,Daekyo Kids TV,
+Desire TV@DesireTV.kr@https://i.imgur.com/i9VCW5k.png@,Desire TV,
+Dog TV@DogTV.kr@https://i.imgur.com/dRKis0F.png@,Dog TV,
+DongaTV@DongaTV.kr@https://i.imgur.com/Zz8tLp0.png@,DongaTV,
+드라마큐브@DramaCube.kr@https://i.imgur.com/DdMgO2K.png@,DramaCube,드라마큐브,
+드라맥스@Dramax.kr@https://i.imgur.com/o8ZXlxf.png@,Dramax,드라맥스,
+E채널@EChannel.kr@https://i.imgur.com/dXaJ37Z.png@,E Channel,E채널,
+EBS@EBS.kr@https://i.imgur.com/jX26YYt.png@,EBS,
+EBS1@EBS1TV.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png@,EBS 1TV,EBS Digital,EBS1,
+EBS2@EBS2TV.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/960px-EBS_2TV_Logo.svg.png@,EBS 2TV,EBS2,
+EBS English@EBSEnglish.kr@https://i.imgur.com/5wLJzb0.png@,EBS English,
+EBS Kids@EBSKids.kr@https://i.imgur.com/62oo8Bx.png@,EBS Kids,
+EBS Learning Primary School 3@EBSLearningPrimarySchool3.kr@https://i.imgur.com/e3TiKLz.png@,EBS Learning Primary School 3,
+EBS Learning Primary School 4@EBSLearningPrimarySchool4.kr@https://i.imgur.com/zMAHzD9.png@,EBS Learning Primary School 4,
+EBS Learning Primary School 5@EBSLearningPrimarySchool5.kr@https://i.imgur.com/lIorFUO.png@,EBS Learning Primary School 5,
+EBS Learning Primary School 6@EBSLearningPrimarySchool6.kr@https://i.imgur.com/lIorFUO.png@,EBS Learning Primary School 6,
+EBS Learning Secondary School 1@EBSLearningSecondarySchool1.kr@https://i.imgur.com/u8DR5HZ.png@,EBS Learning Secondary School 1,
+EBS Learning Secondary School 2@EBSLearningSecondarySchool2.kr@https://i.imgur.com/Schr1Mk.png@,EBS Learning Secondary School 2,
+EBS플러스1@EBSPlus1.kr@https://i.imgur.com/aCeuhon.png@,EBS Plus 1,EBS플러스1,EBS+ 1,
+EBS플러스2@EBSPlus2.kr@https://i.imgur.com/pllIMGi.png@,EBS Plus 2,EBS플러스2,EBS+ 2,
+Edaily TV@EdailyTV.kr@https://i.imgur.com/3E72tK9.png@,Edaily TV,
+EDGE TV@EdgeTV.kr@https://i.imgur.com/y65DED8.png@,Edge TV,EDGE TV
+ENA@ENA.kr@https://i.imgur.com/RwMmbtD.png@,ENA,
+ENA DRAMA@ENADRAMA.kr@https://i.imgur.com/IowmetH.png@,ENA DRAMA,
+ENA PLAY@ENAPLAY.kr@https://i.imgur.com/Ksc8IHf.png@,ENA PLAY,
+ENA STORY@ENASTORY.kr@https://i.imgur.com/gbpKZl4.png@,ENA STORY,
+ENA Sports@ENA Sports@https://yt3.googleusercontent.com/cnfntt7TgR_oB2LJQhuS1eg01BACIeSTZQb1aU9aQygozKRNTUpLMcZTBLIGCajGurYj26vw_w=s900-c-k-c0x00ffffff-no-rj@,ENA Sports,
+ETV@ETV.kr@https://i.imgur.com/nE9LokP.png@,ETV,
+Fashion N@FashionN.kr@https://i.imgur.com/hQbMozI.png@,Fashion N,
+FGTV@FGTV.kr@https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png@,FGTV,
+Fishing TV@FishingTV.kr@https://i.imgur.com/HpPeCNO.png@,Fishing TV,
+Food TV@FoodTV.kr@https://i.imgur.com/E0W1M4H.png@,Food TV,
+FTV@FTV.kr@https://i.imgur.com/VLsGJ1x.png@,FTV,
+Fun TV@FunTV.kr@https://i.imgur.com/9rfo7O3.png@,Fun TV,
+GayoTV@GayoTV.kr@https://i.imgur.com/5nUmU7h.png@,GayoTV,
+GCN@GCN.kr@https://i.imgur.com/yzwtMOC.png@,GCN,GCN24,
+GMTV@GMTV.kr@https://i.imgur.com/Fy3nUUB.png@,GMTV,
+Golf & PBA@GolfPBA.kr@https://i.imgur.com/LCF2ALc.png@,Golf & PBA,
+Gongyoung Home Shopping@GongyoungHomeShopping.kr@https://i.imgur.com/YL3rpd7.png@,Gongyoung Home Shopping,Gongyoung Shopping,
+Good TV@GoodTV.kr@https://i.ibb.co/1v913gn/logo-goodtv.png@,Good TV,GOODTV,
+GS마이샵@GSMyShop.kr@https://i.imgur.com/ETPQwui.png@,GS My Shop,GS마이샵,GS MY Shop,
+GS Shop@GSShop.kr@https://i.imgur.com/F7QDbEy.png@,GS Shop,
+GTV@GTV.kr@https://i.imgur.com/02ic07h.png@,GTV,
+국악방송@GugakTV.kr@https://i.imgur.com/Ey7Htm8.png@,Gugak TV,
+Gugbang TV@GugbangTV.kr@https://i.imgur.com/f1tz5fg.png@,Gugbang TV,
+하이라이트TV@HighlightTV.kr@https://i.imgur.com/4FJP1ze.png@,Highlight TV,하이라이트TV,
+History@History.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png@,History,
+HLAI-DTV@HLAIDTV.kr@https://i.imgur.com/ZiRA5zk.png@,HLAI-DTV,
+MBC제주@HLAJDTV.kr@https://i.imgur.com/JM4rxGU.png@,HLAJ-DTV,MBC Jeju (제주),MBC Jeju,
+MBC목포@HLAMDTV.kr@https://i.imgur.com/5oraHc0.png@,HLAM-DTV,MBC Mokpo (목포),MBC Mokpo,MBC목포,
+MBC춘천@HLANDTV.kr@https://i.imgur.com/lthyx2P.png@,HLAN-DTV,MBC Chuncheon (춘천),MBC Chuncheon
+MBC충북@HLAODTV.kr@https://i.imgur.com/uR0gScb.png@,HLAO-DTV,MBC Chungbuk (충북),MBC Chungbuk,
+MBC강원영동@HLAQDTV.kr@https://i.imgur.com/FGsKCH3.png@,HLAQ-DTV,MBC Gangwon (강원영동),MBC Gangwon,
+MBC여수@HLATDTV.kr@https://i.imgur.com/3VSuYsn.png@,HLAT-DTV,MBC여수,MBC Yeosu (여수),MBC Yeosu,
+HLAU-DTV@HLAUDTV.kr@https://i.imgur.com/CcPklOT.png@,HLAU-DTV,
+HLAV-DTV@HLAVDTV.kr@https://i.imgur.com/EeyUKyj.png@,HLAV-DTV,
+HLAW-DTV@HLAWDTV.kr@https://i.imgur.com/nqRWpUu.png@,HLAW-DTV,
+HLAY-DTV@HLAYDTV.kr@https://i.imgur.com/V4fZzFJ.png@,HLAY-DTV,
+SBS G1@HLCGDTV.kr@https://i.imgur.com/ABdmZMc.png@,HLCG-DTV,SBS G1,
+HLCH-DTV@HLCHDTV.kr@https://i.imgur.com/29EfnVb.png@,HLCH-DTV,
+HLCJ-DTV@HLCJDTV.kr@https://i.imgur.com/bfju6Cq.png@,HLCJ-DTV,
+HLCN-DTV@HLCNDTV.kr@https://i.imgur.com/wmGJgYh.png@,HLCN-DTV,
+HLCP-DTV@HLCPDTV.kr@https://i.imgur.com/wTja6we.png@,HLCP-DTV,
+MBC대전@HLCQDTV.kr@https://i.imgur.com/HCbvAiM.png@,HLCQ-DTV,MBC Daejeon (대전),MBC Daejeon,
+HLCR-DTV@HLCRDTV.kr@https://i.imgur.com/VnRhO9u.png@,HLCR-DTV,
+HLCT-DTV@HLCTDTV.kr@https://i.imgur.com/LlYQR8m.png@,HLCT-DTV,
+HLCW-DTV@HLCWDTV.kr@https://i.imgur.com/wc79Ie6.png@,HLCW-DTV,
+HLCX-DTV@HLCXDTV.kr@https://i.imgur.com/3C57SwN.png@,HLCX-DTV,
+HLCY-DTV@HLCYDTV.kr@https://i.imgur.com/SoY6pAC.png@,HLCY-DTV,
+HLDE-DTV@HLDEDTV.kr@https://i.imgur.com/jknoVmp.png@,HLDE-DTV,
+HLDF-DTV@HLDFDTV.kr@https://i.imgur.com/grr8BlV.png@,HLDF-DTV,
+HLDG-DTV@HLDGDTV.kr@https://i.imgur.com/gaBq1Lz.png@,HLDG-DTV,
+SBS KBC@HLDHDTV.kr@https://i.imgur.com/Srsw4Mi.png@,HLDH-DTV,SBS KBC,
+SBS UBC@HLDPDTV.kr@https://i.imgur.com/BBCoqIf.png@,HLDP-DTV,SBS UBC,
+SBS JTV@HLDQDTV.kr@https://i.imgur.com/byss0Ld.png@,HLDQ-DTV,SBS JTV,
+SBS CJB@HLDRDTV.kr@https://i.imgur.com/zVunmpQ.png@,HLDR-DTV,SBS CJB,
+HLKA-DTV@HLKADTV.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/960px-KBS_1_logo.svg.png@,HLKA-DTV,
+HLKB-DTV@HLKBDTV.kr@https://i.imgur.com/2f6W60P.png@,HLKB-DTV,
+HLKF-DTV@HLKFDTV.kr@https://i.imgur.com/UV26AQm.png@,HLKF-DTV,
+HLKG-DTV@HLKGDTV.kr@https://i.imgur.com/EMVWCh0.png@,HLKG-DTV,
+HLKH-DTV@HLKHDTV.kr@https://i.imgur.com/OHHrLqv.png@,HLKH-DTV,
+HLKI-DTV@HLKIDTV.kr@https://i.imgur.com/co5JP79.png@,HLKI-DTV,
+SBS JIBS@HLKJDTV.kr@https://i.imgur.com/iAz0Psw.png@,HLKJ-DTV,SBS JIBS,
+HLKM-DTV@HLKMDTV.kr@https://i.imgur.com/WdVAccl.png@,HLKM-DTV,
+HLKN-DTV@HLKNDTV.kr@https://i.imgur.com/7Fx7T8E.png@,HLKN-DTV,
+HLKQ-DTV@HLKQDTV.kr@https://i.imgur.com/T4ahV5R.png@,HLKQ-DTV,
+HLKR-DTV@HLKRDTV.kr@https://i.imgur.com/Y1IRbNY.png@,HLKR-DTV,
+HLKS-DTV@HLKSDTV.kr@https://i.imgur.com/FqBYBIh.png@,HLKS-DTV,
+HLKU-DTV@HLKUDTV.kr@https://i.imgur.com/jiFOYi5.png@,HLKU-DTV,
+HLQB-DTV@HLQBDTV.kr@https://i.imgur.com/uKLgVLZ.png@,HLQB-DTV,
+OBS@HLQSDTV.kr@https://i.imgur.com/oWB3ApR.png@,HLQS-DTV,OBS
+HLSA-DTV@HLSADTV.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/960px-KBS_2_logo.svg.png@,HLSA-DTV,
+HLSB-DTV@HLSBDTV.kr@https://i.imgur.com/RvINTxe.png@,HLSB-DTV,
+Hobby Life@HobbyLife.kr@https://i.imgur.com/AWHKhSr.png@,Hobby Life,
+홈앤쇼핑@HomeShopping.kr@https://i.imgur.com/IcexRXG.png@,Home & Shopping,홈앤쇼핑,
+Honey TV@HoneyTV.kr@https://i.imgur.com/iWG82fa.png@,Honey TV,
+Hope Channel Korea@HopeChannelKorea.kr@https://i.imgur.com/dK1fpYk.png@,Hope Channel Korea,
+현대홈쇼핑@HyundaiHomeShopping.kr@https://i.imgur.com/NJpECmq.png@,Hyundai Home Shopping,현대홈쇼핑,
+현대홈쇼핑+샵@HyundaiHomeShoppingPlusShop.kr@https://i.imgur.com/DoNOuZE.png@,Hyundai Home Shopping + Shop,현대홈쇼핑+샵,Hyundai Home Shopping Plus,
+IB Sports@IBSports.kr@https://i.imgur.com/rpOuU7S.png@,IB Sports,
+iHQ Drama@iHQDrama.kr@https://i.imgur.com/oi3lSyD.png@,iHQ Drama,
+Indie Film@IndieFilm.kr@https://i.imgur.com/hcJ7yAX.png@,Indie Film,
+아이넷@InetTV.kr@https://i.imgur.com/SNYvYKq.png@,Inet TV,아이넷,iNet,
+JEI English TV@JEIEnglishTV.kr@https://i.imgur.com/rpayW6E.png@,JEI English TV,
+재능방송@JEITalentTV.kr@https://i.imgur.com/8y3oQsY.png@,JEI Talent TV,재능방송,
+직업방송@JobplusTV.kr@https://i.imgur.com/Y5Zg5SR.png@,Jobplus TV,직업방송,
+JTBC@JTBC.kr@https://i.imgur.com/fCruRmS.png@,JTBC,jTBC,
+JTBC2@JTBC2.kr@https://i.imgur.com/kljWkXS.png@,JTBC2,
+JTBC4@JTBC4.kr@https://i.imgur.com/dgIXpHS.png@,JTBC4,
+JTBC Golf@JTBCGolf.kr@https://i.imgur.com/wa4KC7z.png@,JTBC Golf,
+JTBC Golf & Sports@JTBCGolfSports.kr@https://i.imgur.com/gB29STO.png@,JTBC Golf & Sports,
+JTBC News@JTBC News.kr@https://play-lh.googleusercontent.com/S8X_ZUKgJCrlf1ihLTXIqodbA0V2m-FPIKlmMdV-z5qmKpLSbmFViUIo4CUnGknx47I@JTBC News
+JTV@JTV.kr@https://i.imgur.com/byss0Ld.png@,JTV,
+K쇼핑@KShopping.kr@https://i.imgur.com/Tmb3xK8.png@,K Shopping,K쇼핑,
+K-Baduk@KBaduk.kr@https://i.imgur.com/bpLcGKI.png@,K-Baduk,
+K star@KStar.kr@https://i.imgur.com/VzFNa9X.png@,K-Star,K star,
+KBS1@KBS1TV.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/960px-KBS_1_logo.svg.png@,KBS 1TV,KBS1,
+KBS2@KBS2TV.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/960px-KBS_2_logo.svg.png@,KBS 2TV,KBS2,
+KBS드라마@KBSDrama.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/960px-KBS_DRAMA.svg.png@,KBS Drama,KBS드라마,
+KBS JOY@KBSJoy.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/960px-KBS_JOY.svg.png@,KBS Joy,KBS JOY,
+KBS Kids@KBSKids.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/960px-KBS_kids.svg.png@,KBS Kids,
+KBS Korea@KBSKorea.kr@https://i.imgur.com/Dy1xwEd.png@,KBS Korea,
+KBS Life@KBSLife.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/960px-KBS_Life.svg.png@,KBS Life,KBS LIFE,
+KBS LiveCam DokDo@KBSLiveCamDokDo.kr@https://i.imgur.com/7mZnPO5.png@,KBS LiveCam DokDo,
+KBSN스포츠@KBSNSports.kr@https://i.imgur.com/xZ2s9eY.png@,KBS N Sports,KBSN스포츠,
+KBS News D@KBSNewsD.kr@https://i.imgur.com/4qKgvHN.png@,KBS News D,
+KBS News 24@KBS News 24.kr@https://yt3.googleusercontent.com/LIRDgU59ID6x9CqOQQR5TO9WsaenXRWOwD5kj4pwY4mz24hRW6qxIiKZl1JSso-u6auqakRj0g=s900-c-k-c0x00ffffff-no-rj@,KBS News 24,
+KBS Story@KBSStory.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/960px-KBS_Story.svg.png@,KBS Story,
+KBS World@KBSWorld.kr@https://i.imgur.com/7DqgELX.png@,KBS World,
+KCTV@KCTV.kr@https://i.imgur.com/IHkZpaI.png@,KCTV,
+KFN TV@KFNTV.kr@https://i.imgur.com/61cGwYO.png@,KFN TV,
+Kids Talk Talk Plus@KidsTalkTalkPlus.kr@https://i.imgur.com/UDWHj4M.png@,Kids Talk Talk Plus,
+한국경제TV@KoreaEconomyTV.kr@https://i.imgur.com/fGQatSH.png@,Korea Economy TV,한국경제TV,
+KTV@KTV.kr@https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png@,KTV,Korea TV,
+Kuki TV@KukiTV.kr@https://i.imgur.com/67ZQFhF.png@,Kuki TV,
+Life Sports TV@LifeSportsTV.kr@https://i.imgur.com/IzK1rNi.png@,Life Sports TV,
+LIFETIME@라이프타임채널.kr@https://pjytv.760515.xyz/logo/LIFETIME.png@,LIFETIME,
+Living TV@LivingTV.kr@https://i.imgur.com/dikPhda.png@,Living TV,
+롯데홈쇼핑@LotteHomeShopping.kr@https://i.imgur.com/dJeNehc.png@,Lotte Home Shopping,롯데홈쇼핑,
+롯데ONE TV@LotteOneTV.kr@https://i.imgur.com/bXe7tYE.png@,Lotte OneTV,롯데ONE TV,Lotte One,
+Maeil Business TV@MaeilBusinessTV.kr@https://i.imgur.com/G2fnMXG.png@,Maeil Business TV,
+MBC America@MBCAmerica.us@https://i.imgur.com/RRc23ra.png@,MBC America,
+MBC드라마넷@MBCDrama.kr@https://i.imgur.com/Q20rqnX.png@,MBC Drama,MBC드라마넷,
+MBC Every1@MBCEvery1.kr@https://i.imgur.com/cnawqOu.png@,MBC Every1,
+MBC Gyeongnam TV@MBCGyeongnamTV.kr@https://i.imgur.com/Ronb1JP.png@,MBC Gyeongnam TV,
+MBC M@MBCM.kr@https://static.wikia.nocookie.net/logopedia/images/4/41/MBC_M_logo.svg/revision/latest/scale-to-width-down/512@,MBC M,
+MBC Net@MBCNet.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/960px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png@,MBC Net,
+MBC News@MBCNews.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MBC_News_2018.svg/960px-MBC_News_2018.svg.png@,MBC News,
+MBC ON@MBCOn.kr@https://i.imgur.com/AQzgnKD.png@,MBC On,MBC ON,
+MBC스포츠+@MBCSportsPlus.kr@https://static.wikia.nocookie.net/logopedia/images/8/84/Mbcsports_logo2.svg/revision/latest/scale-to-width-down/512@,MBC Sports+,MBC스포츠+,
+MBC TV@MBCTV.kr@https://static.wikia.nocookie.net/logopedia/images/b/bd/Munhwa_Broadcasting_Corporation_2023.svg/revision/latest/scale-to-width-down/512@,MBC TV,
+MBN@MBN.kr@https://i.imgur.com/wm3JupT.png@,MBN,
+MBN 플러스@MBNPlus.kr@https://i.imgur.com/8isw1U0.png@,MBN Plus,MBN 플러스
+MGTV@MGTV.kr@https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXdJFvr-v8MYPL3PXQdtIJIZpXTTcB8y27aA&s@,MGTV,
+Midnight@Midnight.kr@https://i.imgur.com/OmNoXkm.png@,Midnight,
+M.net@Mnet.kr@https://i.imgur.com/DGH10Z2.png@,Mnet,M.net,
+Mplex@Mplex.kr@https://i.imgur.com/UjQpJKx.png@,Mplex,
+MTN@MTN.kr@https://i.imgur.com/MS0lqoG.png@,MTN,
+MTN W@MTNW.kr@https://i.imgur.com/CqgQY1I.png@,MTN W,
+국회TV@NationalAssemblyTV.kr@https://i.imgur.com/UKdB8vD.png@,National Assembly TV,국회TV,NATV (국회방송),
+National Geographic Wild@NationalGeographicWild.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png@,National Geographic Wild,
+NBN TV@NBNTV.kr@@,NBN TV,
+NBS@NBS.kr@https://i.imgur.com/pOSroOE.png@,NBS,NBS Korea Agricultural Broadcasting,
+NHTV@NHTV.kr@https://i.imgur.com/DfECkgB.png@,NHTV,
+Nickelodeon@Nickelodeon.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png@,Nickelodeon,
+NS홈쇼핑@NSHomeShopping.kr@https://i.imgur.com/Q9xsDQo.png@,NS Home Shopping,NS홈쇼핑,
+NS샵플러스@NSShopPlus.kr@https://i.imgur.com/7KmXNci.png@,NS Shop+,NS샵플러스,NS Shop Plus,
+OBS W@OBSW.kr@https://i.imgur.com/VbBM6jE.png@,OBS W,
+OCN@OCN.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/960px-OCN_Logo.svg.png@,OCN,
+OCN무비즈@OCNMovies.kr@https://i.imgur.com/VwPHXfi.png@,OCN Movies,OCN무비즈,
+OCN무비즈2@OCN Movies2.kr@https://iptv-epg.org/images/f_WettiaHXupK6lpHdzmouu1E8KXzrDMRIayFCSP0ovgvGgRoubovr0y2VocvfiMzAcBbXsmQVANa12kb6h9pXF9yOmgd-zwYPejj7XlL0-jdw@,OCN Movies 2,
+OCN Thrills@OCNThrills.kr@https://i.imgur.com/YhXjkbR.png@,OCN Thrills,
+OGN@OGN.kr@https://i.imgur.com/3hICVRe.png@,OGN,
+OLIFE@OLIFE.kr@https://i.imgur.com/z2UQKHF.png@,OLIFE,
+ONCE@ONCE.kr@https://i.imgur.com/t1jP002.png@,ONCE,
+ONT@ONT.kr@https://i.imgur.com/aLVr20m.png@,ONT,
+OUN@OUN.kr@https://i.imgur.com/7s6JtcU.png@,OUN,
+Pax Economy TV@PaxEconomyTV.kr@https://i.imgur.com/Ncd4CL3.png@,Pax Economy TV,
+Pinkfong@Pinkfong.kr@https://i.imgur.com/rX9SQKC.png@,Pinkfong,
+Playboy TV@PlayboyTV.kr@https://i.imgur.com/5di4Nis.png@,Playboy TV,
+PLAYY Action Movie@PLAYYActionMovie.kr@https://i.imgur.com/pooFL15.png@,PLAYY Action Movie,
+PLAYY Healing Movie@PLAYYHealingMovie.kr@https://i.imgur.com/Fi26cKZ.png@,PLAYY Healing Movie,
+PLAYY Premium Movie@PLAYYPremiumMovie.kr@https://i.imgur.com/AzAo5QD.png@,PLAYY Premium Movie,
+PLAYY Well-Made Movie@PLAYYWellMadeMovie.kr@https://i.imgur.com/9TwBqPd.png@,PLAYY Well-Made Movie,
+Polaris TV@PolarisTV.kr@https://i.imgur.com/qk7ey3J.png@,Polaris TV,
+Poyo TV@PoyoTV.kr@https://i.imgur.com/5UiSqE5.png@,Poyo TV,
+Professional Baseball 1@ProfessionalBaseball1.kr@https://i.imgur.com/0Jlxqtz.png@,Professional Baseball 1,
+Professional Baseball 2@ProfessionalBaseball2.kr@https://i.imgur.com/RkNFm3e.png@,Professional Baseball 2,
+Professional Baseball 3@ProfessionalBaseball3.kr@https://i.imgur.com/1r8HBOj.png@,Professional Baseball 3,
+Professional Baseball 4@ProfessionalBaseball4.kr@https://i.imgur.com/LwDXiHh.png@,Professional Baseball 4,
+Professional Baseball 5@ProfessionalBaseball5.kr@https://i.imgur.com/vfrecYS.png@,Professional Baseball 5,
+Real Estate TV@RealEstateTV.kr@https://i.imgur.com/7Abel38.png@,Real Estate TV,
+RNA TV@RNATV.kr@https://i.ytimg.com/vi/g_AuNnv8Pow/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAkE7ca0NT6Cr1OnZs5KqOnWL7Wnw@,RNA TV,
+RTV@RTV.kr@https://i.imgur.com/Vhp7yR7.png@,RTV,
+RUTC TV@RUTCTV.kr@https://i.ibb.co/yPDhKBp/rutc-logo.jpg@,RUTC TV,
+서경방송@SCSTV.kr@https://yt3.googleusercontent.com/ytc/AIdro_mtqgXVzNO58ODd3vO9Y0zyBohQ9E3raNRsbmeDOc7DxuA=s900-c-k-c0x00ffffff-no-rj@,SCS TV,
+SBS@SBS.kr@https://i.imgur.com/4LHX71N.png@,SBS,
+SBS Biz@SBSBiz.kr@https://i.imgur.com/gwA98UT.png@,SBS Biz,
+SBS F!L@SBSFL.kr@https://i.imgur.com/JKNSd8s.png@,SBS F!L,
+SBSfunE@SBSfunE.kr@https://i.imgur.com/sxM1XcA.png@,SBS funE,SBSfunE,
+SBS Golf@SBSGolf.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/960px-SBS_Golf_logo_2018.svg.png@,SBS Golf,
+SBS Golf2@SBS Golf2.kr@https://backup.760515.xyz/logo/SBS Golf2.png@,SBS Golf2,SBS Golf 2,
+SBS KPOP@sbskpop.kr@https://backup.760515.xyz/logo/SBS KPOP.png@,SBS KPOP,
+SBS LIFE@SBS Life.kr@https://backup.760515.xyz/logo/SBS LIFE.png@,SBS LIFE,
+SBS M@SBSM.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/SBS_M_2022_logo.svg/960px-SBS_M_2022_logo.svg.png@,SBS M,
+SBS News@SBSNews.kr@https://i.imgur.com/VY6uEE9.png@,SBS News,
+SBS플러스@SBSPlus.kr@https://i.imgur.com/8pINOIM.png@,SBS Plus,SBS플러스,
+SBS스포츠@SBSSports.kr@https://i.imgur.com/L2SdLkb.png@,SBS Sports,SBS스포츠,
+스크린@Screen.kr@https://i.imgur.com/1NpIrAF.png@,Screen,스크린,
+Screen Golfzon@ScreenGolfzon.kr@https://i.imgur.com/KphxyNe.png@,Screen Golfzon,
+SEN TV@SENTV.kr@https://i.imgur.com/FimaHhq.png@,SEN TV,
+신세계쇼핑@ShinsegaeTVShopping.kr@https://i.imgur.com/Hq3yjqA.png@,Shinsegae TV Shopping,신세계쇼핑,Shinsegae Shopping,
+쇼핑엔T@ShoppingNT.kr@https://i.imgur.com/BgbJp5X.png@,Shopping NT,쇼핑엔T,Shopping NT Mall,
+Silver iTV@SilveriTV.kr@https://i.imgur.com/aSaJqrR.png@,Silver iTV,
+SK스토아@SKStoa.kr@https://i.imgur.com/PbJBB5j.png@,SK Stoa,SK스토아,
+skyA&C@skyAC.kr@https://i.imgur.com/hwPht0L.png@,skyA&C,
+skySports@skySports.kr@https://i.imgur.com/COAQP59.png@,skySports,
+skyUHD@skyUHD.kr@https://i.imgur.com/WPoAok9.png@,skyUHD,
+SmileTV Plus@SmileTVPlus.kr@https://i.imgur.com/ootIv9k.png@,SmileTV Plus,
+Sosang-gong-in Sijang TV@SosanggonginSijangTV.kr@https://www.semas.or.kr/common/img/common/h1_logo_sns_200.png@,Sosang-gong-in Sijang TV,
+SPOTV@SPOTV.kr@https://i.imgur.com/HaoVsm5.png@,SPOTV,
+SPOTV2@SPOTV2.kr@https://i.imgur.com/YD8fbTH.png@,SPOTV2,SPOTV 2,
+SPOTV Golf & Health@SPOTVGolfHealth.kr@https://i.imgur.com/pjZx3Zj.png@,SPOTV Golf & Health,
+SPOTV Prime 1@SPOTV PRIME.kr@https://iptv-epg.org/images/E0nu6nZzzS2aAWoQAZrN4tEybmc1_sUQjmn5JOuPDzO_LUMewyOp9e4meA6zMXV_1Hjs990EeJFB6ppZuWfWJ6NKIBmCxsm8gq4yp8GLAkKoT_bhS0jV68L9TVOCuSpTx5j74Mc@,SPOTV Prime 1,
+SPOTV Prime 2@SPOTV PRIME2.kr@https://iptv-epg.org/images/9z-0VAsOv9i7RRMlwF7CUSCUYBtMo_E3tx4NFFuPUP8w4-VGLEdOsBSs0Y_dytol8FO3OjITpWo-cr_ak3ymO-CtD1E27RiILerf0PdNzUzrmKmfaFBTRRFDNULRP7Ga4tYUBilk@,SPOTV Prime 1,
+SPOTV Prime+@SPOTV PRIME+.kr@https://iptv-epg.org/images/V_B6BWtk86t2bXKR1Xex2V6yO_X_glDHHWJmBjwqwguebPtkWCtY43rGIgjRw4VfHit0nRrp8fEq2taORd5No1tas_zaIr6gzlBXLwkKcr4qjS7EqYwQbiN2qXn1bijYNATl9ba8mcc@,SPOTV Prime 1,
+STATV@STATV.kr@https://i.imgur.com/Ou8Nxxq.png@,STATV,
+STB@STB.kr@https://i.imgur.com/MTGJD0m.png@,STB,
+TBS eFM@TBSeFM.kr@https://tbs.seoul.kr/common/images/gnb/logo.png@,TBS eFM,
+TBS TV@TBSTV.kr@https://i.imgur.com/iOnWS6V.png@,TBS TV,TBS,
+Telenovela@Telenovela.kr@https://i.imgur.com/yuAXFmk.png@,Telenovela,
+THE K-POP@THEKPOP.kr@https://mir-s3-cdn-cf.behance.net/projects/404/a207fe126976299.Y3JvcCwxNzgyLDEzOTQsMzkyLDEyNw.png@,THE K-POP,
+The Movie@TheMovie.kr@https://i.imgur.com/Rsunizo.png@,The Movie,
+Tomato TV@TomatoTV.kr@https://i.imgur.com/g8UJus1.png@,Tomato TV,
+투니버스@Tooniverse.kr@https://i.imgur.com/Fesm8M3.png@,Tooniverse,투니버스,
+TV조선@TVChosun.kr@https://i.imgur.com/62EwaCG.png@,TV Chosun,TV조선,
+TV Chosun 2@TVChosun2.kr@https://i.imgur.com/Ev5JoBJ.png@,TV Chosun 2,
+TV Chosun 3@TVChosun3.kr@https://i.imgur.com/7JIFvYd.png@,TV Chosun 3,
+TV Work Net@TVWorkNet.kr@https://i.imgur.com/9zYxRZW.png@,TV Work Net,
+TVasia Plus@TVasiaPlus.kr@https://i.imgur.com/PnGmAa7.png@,TVasia Plus,
+tvN@tvN.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png@,tvN,
+tvN Drama@tvNDrama.kr@https://i.imgur.com/f91ieU8.png@,tvN Drama,
+tvN Show@tvNShow.kr@https://i.imgur.com/8OobmvS.png@,tvN Show,
+tvN Sports@tvNSports.kr@https://i.imgur.com/NUKYwPr.png@,tvN Sports,
+tvN STORY@tvNStory.kr@https://i.imgur.com/zy0bmH6.png@,tvN Story,tvN스토리,tvN STORY,
+UHD Dream TV@UHDDreamTV.kr@https://i.imgur.com/rLBzvmw.png@,UHD Dream TV,
+UXN@UXN.kr@https://i.imgur.com/oGruvjy.png@,UXN,
+Viki@Viki.kr@https://i.imgur.com/w6zInZz.png@,Viki,
+Vlending@Vlending.kr@https://i.imgur.com/bycwH6W.png@,Vlending,
+W쇼핑@WShopping.kr@https://i.imgur.com/hfXjVJd.png@,W Shopping,W쇼핑,
+복지TV@WBCTV.kr@https://i.imgur.com/IkFev3L.png@,WBC TV,복지TV,
+WBS TV@WBSTV.kr@https://i.imgur.com/Lhz1Egi.png@,WBS TV,WBS Buddhist TV,
+WeeTV@WeeTV.kr@https://i.imgur.com/AQbjUyc.png@,WeeTV,
+WeLike@WeLike.kr@https://i.imgur.com/weRgHkc.png@,WeLike,
+Yes TV@YesTV.kr@https://teamblindstatics.s3.ap-northeast-1.amazonaws.com/img/companyPage/logo_ad6194df432600.jpeg@,Yes TV,
+연합뉴스TV@YonhapNewsTV.kr@https://i.imgur.com/3aLkU2I.png@,Yonhap News TV,연합뉴스TV,Yonhap News,
+YTN@YTN.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png@,YTN,
+YTN2@YTN2.kr@https://i.imgur.com/g6Nhwmb.png@,YTN2,
+YTN DMB@YTNDMB.kr@https://i.imgur.com/50VQSBk.png@,YTN DMB,
+YTN Science@YTNScience.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png/960px-YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png@,YTN Science,
+YTN World@YTNWorld.kr@https://i.imgur.com/EbQKy78.png@,YTN World,
+
