@@ -126,7 +126,7 @@ http://jm14.modhospital.kr:9981/stream/channelid/51?ticket=9CEDCBCE19B62889710C4
 
 #EXTINF:-1 tvg-id="채널 J.kr" tvg-name="채널 J" tvg-logo="https://i.imgur.com/PeCtsdP.png" group-title="Movies & Entertainment",채널 J
 http://jm14.modhospital.kr:9981/stream/channelid/3?ticket=53D8BAC7C7F7498693F9000D36EC3B1DBE174445
-#EXTINF:-1 tvg-id="Ch View.kr" tvg-name="Ch View" tvg-logo="https://i.imgur.com/zC6nd31.png" group-title="Movies & Entertainment",채널 View
+#EXTINF:-1 tvg-id="Ch View.kr" tvg-name="Ch View" tvg-logo="https://i.imgur.com/zC6nd31.png" group-title="Movies & Entertainment",채널 뷰
 http://jm14.modhospital.kr:9981/stream/channelid/80?ticket=51FE0931D52108D6CB0C2D5E95A379A0B285158F
 
 
@@ -393,6 +393,10 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS플러스2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Education",EBS플러스2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
+#EXTINF:-1 tvg-id="JEITalentTV.kr" tvg-name="JEI재능TV" tvg-logo="https://i.imgur.com/8y3oQsY.png" group-title="Sports & Leisure",재능방송
+http://jm14.modhospital.kr:9981/stream/channelid/61?ticket=CF989692A2563DA4B73DF8E9AB2345208A204953
+
+
 
 #EXTINF:-1 tvg-id="AniBox.kr" tvg-name="ANIBOX" tvg-logo="https://i.imgur.com/5SZfGmy.png" group-title="Kids & Animation",Anibox
 https://tving-live-o2-ktcdn.tving.com/o2/v1/019dd8ef15b31eb80e7925af014fca/019dd8ef8adc1eb80e7925af014fcd/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxMzUzMDA4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Gar5qLldoSjFpn0dJnxAPaQ-Mtqp05CDz26cqzL36QEgVd71gJiqSI-NFeHGZYW~HZ7tUFQe67W4RPwlpOdTqyFB5oCrOTWK4Vs9YbqTW-yNdaGAuD4yu9MGdtGC~8XiqQdUERvodc3KFVZPxG0Pn0i91pfDb6DEJhmPe9zA0vANMf-SJIZfShHIy~cjJdFvtHjErKo0QgVWSzgUX07Qw67Usgp6z4zbLZKq53Rn8~ygy7kEGKuqWHeXk0W6U-N6J5zT6Z5rGaM5AoSI9fU6xuMklFBkllkSgvD4P9NIZzB1F6S0Y4cAWD~r4NlsRD~f9CcZ1iPpzCx908t1n5u9wg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
@@ -492,9 +496,6 @@ http://jm14.modhospital.kr:9981/stream/channelid/95?ticket=A7A463899839EE3DE9F71
 #EXTINF:-1 tvg-id="GTV.kr" tvg-name="Fishing TV" tvg-logo="https://i.imgur.com/02ic07h.png" group-title="Sports & Leisure",GTV
 http://jm14.modhospital.kr:9981/stream/channelid/6?ticket=9682552A9B078D841721CF87C44CB67C4094993E
 #EXTINF:-1 tvg-id="" tvg-name="Fishing TV" tvg-logo="" group-title="Sports & Leisure",LG헬로비젼
-
-#EXTINF:-1 tvg-id="JEITalentTV.kr" tvg-name="JEI재능TV" tvg-logo="https://i.imgur.com/8y3oQsY.png" group-title="Sports & Leisure",재능방송
-http://jm14.modhospital.kr:9981/stream/channelid/61?ticket=CF989692A2563DA4B73DF8E9AB2345208A204953
 
 
 
