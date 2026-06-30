@@ -323,7 +323,9 @@ http://jm14.modhospital.kr:9981/stream/channelid/9?ticket=04BEECCD8456B28616ED20
 
 
 #EXTINF:-1 tvg-id="Xone" tvg-name="Xone" tvg-logo="" group-title="Movies & Entertainment",Xone
-
+http://jm14.modhospital.kr:9981/stream/channelid/97?ticket=DBDEBE45469B80B746EDF160C645A8C88203C268
+#EXTINF:-1 tvg-id="" tvg-name="Fishing TV" tvg-logo="" group-title="Sports & Leisure",chNOW
+http://jm14.modhospital.kr:9981/stream/channelid/99?ticket=EC7E03F1838B8B331D32023C49CE72F253D97475
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies & Entertainment",AXN
 http://jm14.modhospital.kr:9981/stream/channelid/49?ticket=0F59574C03DEDEC8DAEDCF8D4A497BEAC15CAC95
@@ -487,8 +489,6 @@ http://jm14.modhospital.kr:9981/stream/channelid/71?ticket=5CB732B0502228D18BB18
 http://jm14.modhospital.kr:9981/stream/channelid/85?ticket=B1AD0D4EC2AA45A526ED14D667B24B0B9746E60C
 #EXTINF:-1 tvg-id="EChannel.kr" tvg-name="Fishing TV" tvg-logo="https://i.imgur.com/dXaJ37Z.png" group-title="Sports & Leisure",E채널
 http://jm14.modhospital.kr:9981/stream/channelid/95?ticket=A7A463899839EE3DE9F71958848763861BF9C18A
-#EXTINF:-1 tvg-id="" tvg-name="Fishing TV" tvg-logo="" group-title="Sports & Leisure",chNOW
-
 #EXTINF:-1 tvg-id="GTV.kr" tvg-name="Fishing TV" tvg-logo="https://i.imgur.com/02ic07h.png" group-title="Sports & Leisure",GTV
 http://jm14.modhospital.kr:9981/stream/channelid/6?ticket=9682552A9B078D841721CF87C44CB67C4094993E
 #EXTINF:-1 tvg-id="" tvg-name="Fishing TV" tvg-logo="" group-title="Sports & Leisure",LG헬로비젼
