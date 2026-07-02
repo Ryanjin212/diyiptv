@@ -21,7 +21,7 @@ log-level: warning
 mixed-port: 7890
 mode: rule
 proxies:
-- name: hysteria2                                  # 节点名称
+- name: hysteria2-kr                             # 节点名称
   type: hysteria2
   server: q.baoge.me                                # 服务器 IP
   port: 2328                                       # 节点端口，如使用端口跳跃则改为 ports: 2000-3000/1000
