@@ -21,6 +21,13 @@ log-level: warning
 mixed-port: 7890
 mode: rule
 proxies:
+- name: hysteria2                                  # 节点名称
+  type: hysteria2
+  server: q.baoge.me                                # 服务器 IP
+  port: 2328                                       # 节点端口，如使用端口跳跃则改为 ports: 2000-3000/1000
+  password: e3a5bb40be52de65                               # 节点认证密码
+  sni: apps.apple.com                                # SNI 域名或自签证书的三方域名
+  skip-cert-verify: true                           # 使用自签证书请保持此处为 true，如为 CA 证书建议修改为 false
 - type: vless
   name: 1_speednode_0155
   server: 172.64.53.96
@@ -125,6 +132,7 @@ proxy-groups:
 - interval: 300
   name: ♻自动选择
   proxies: &id001
+  - hysteria2-kr
   - 1_speednode_0155
   - 1_speednode_mud
   - 2_speednode_jp
@@ -178,6 +186,7 @@ proxy-groups:
   type: select
 - name: 🇰🇷韩国
   proxies:
+  - hysteria2-kr
   - vless-kr
   - warp-kr
   - warp-kr2
