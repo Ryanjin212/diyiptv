@@ -147,7 +147,7 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=channel_e#.m3u8
 #EXTINF:-1 tvg-id="ENA.kr" tvg-name="ENA" tvg-logo="https://i.imgur.com/RwMmbtD.png" group-title="Movies & Entertainment",ENA
 http://124.222.153.240/kakaotv/get_channel.php?channel=ena#.m3u8
 
-#EXTINF:-1 tvg-id="d5eaf386d5c3d340d88ec072e7502a54"  tvg-logo="https://i.imgur.com/Ksc8IHf.png" group-title="未分类",ENA PLAY
+#EXTINF:-1 tvg-id="d5eaf386d5c3d340d88ec072e7502a54"  tvg-logo="https://i.imgur.com/Ksc8IHf.png" group-title="未分类",ENA플레이
 http://suhoangel.me:9981/stream/channelid/116648661?ticket=52C915A480B311E48E933C5BE230F500F3DAA2A6&profile=pass
 
 
@@ -441,6 +441,8 @@ http://kr.kbstream.dpdns.org/kr.php?id=36_7D80EB10
 #EXTINF:-1 tvg-id="SBSGolf2.kr" tvg-name="SBSGOLF" tvg-logo="https://i.imgur.com/XG8yYm4.jpg" group-title="Sport",SBS Golf2
 http://kr.kbstream.dpdns.org/kr.php?id=42_D1392F29
 
+#EXTINF:-1 tvg-id="JTBC Sports.kr" tvg-name="JTBC Sports" tvg-logo="https://iptv-epg.org/images/qvtuFtdk9pFxtVUqJanoYQal0_bk2xwfroV4Lhg48DQCtWlmfSj7fuj_C1bDNsxtJppCtCHKyu3xejVy5vFYrKpmr04qOepY8DtjxB1Zt8w" group-title="Sports & Leisure",JTBC Sports
+
 #EXTINF:-1 tvg-id="JTBC SPORTS.kr" tvg-name="JTBC3 (Golf & Sports)" tvg-logo="https://iptv-epg.org/images/VFOxmX69OSh2AxxT-odWEPKXh4qSezxBpL2hnwSI0bGdTM05f-sFguTBrvVXW7UBtRF9_Nc2Bgi6QVan9CrRS6pOpvjkjc1T_3pegyReun-0HHnWNB-0nbY" group-title="Sports & Leisure",JTBC Golf & Sports
 http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc3#.m3u8
 
@@ -573,6 +575,7 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=nhk_world#.m3u8
 https://amg01923-amg01923c84-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c84-amgplt0187/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="경인KBS1" tvg-logo="https://i.imgur.com/V4fZzFJ.png" group-title="General",KBS경인
 
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-name="광주KBS1" tvg-logo="https://i.imgur.com/OHHrLqv.png" group-title="General",KBS광주
 http://kr.kbstream.dpdns.org/kr.php?id=12_7066CF5A
