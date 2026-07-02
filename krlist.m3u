@@ -241,7 +241,7 @@ http://kr.kbstream.dpdns.org/kr.php?id=34_CD2A32B9
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d663b5fa81eb80e796d9bd9ca6/019d6643c8aa153d786553381d0d3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODEzNTI5NDQsInBhdGgiOiIvbzIifQ.SSRAxOGC_sNLLYTUSNxzZ9j5lfNyj1uOgns5enKIxGE
 #EXTINF:-1 tvg-id="tvN SHOW.kr" tvg-name="tvN Show" tvg-logo="https://i.imgur.com/8OobmvS.png" group-title="Movies & Entertainment",tvN Show
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d663468df153d786553381d0cf/019d663eb5471eb80e796d9bd9cac/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODEzNTI5MzgsInBhdGgiOiIvbzIifQ.gI8Ej--pA-YzzYIDoto-ZB0nTfoDg-0mldPprBgWfTc
-#EXTINF:-1 tvg-id="tvN STORY.kr" tvg-name="tvN Story" tvg-logo="https://i.imgur.com/zy0bmH6.png" group-title="Movies & Entertainment",tvN STORY
+#EXTINF:-1 tvg-id="tvN STORY.kr" tvg-name="tvN Story" tvg-logo="https://i.imgur.com/zy0bmH6.png" group-title="Movies & Entertainment",tvN스토리
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
 
 
