@@ -442,6 +442,7 @@ http://kr.kbstream.dpdns.org/kr.php?id=36_7D80EB10
 http://kr.kbstream.dpdns.org/kr.php?id=42_D1392F29
 
 #EXTINF:-1 tvg-id="JTBC Sports.kr" tvg-name="JTBC Sports" tvg-logo="https://iptv-epg.org/images/qvtuFtdk9pFxtVUqJanoYQal0_bk2xwfroV4Lhg48DQCtWlmfSj7fuj_C1bDNsxtJppCtCHKyu3xejVy5vFYrKpmr04qOepY8DtjxB1Zt8w" group-title="Sports & Leisure",JTBC Sports
+http://jm14.modhospital.kr:9981/stream/channelid/87?ticket=8DDC212794856081F2582477F48D81F9D4EE3972
 
 #EXTINF:-1 tvg-id="JTBC SPORTS.kr" tvg-name="JTBC3 (Golf & Sports)" tvg-logo="https://iptv-epg.org/images/VFOxmX69OSh2AxxT-odWEPKXh4qSezxBpL2hnwSI0bGdTM05f-sFguTBrvVXW7UBtRF9_Nc2Bgi6QVan9CrRS6pOpvjkjc1T_3pegyReun-0HHnWNB-0nbY" group-title="Sports & Leisure",JTBC Golf & Sports
 http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc3#.m3u8
@@ -576,7 +577,7 @@ https://amg01923-amg01923c84-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-
 
 
 #EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="경인KBS1" tvg-logo="https://i.imgur.com/V4fZzFJ.png" group-title="General",KBS경인
-
+http://mdlstay.com:9981/stream/channelid/217809681?
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-name="광주KBS1" tvg-logo="https://i.imgur.com/OHHrLqv.png" group-title="General",KBS광주
 http://kr.kbstream.dpdns.org/kr.php?id=12_7066CF5A
 #EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="대구KBS1" tvg-logo="https://i.imgur.com/EMVWCh0.png" group-title="General",KBS대구
