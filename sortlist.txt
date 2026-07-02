@@ -293,7 +293,7 @@ tvN@tvN.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.sv
 tvN Drama@tvNDrama.kr@https://i.imgur.com/f91ieU8.png@,tvN Drama,
 tvN Show@tvNShow.kr@https://i.imgur.com/8OobmvS.png@,tvN Show,
 tvN Sports@tvNSports.kr@https://i.imgur.com/NUKYwPr.png@,tvN Sports,
-tvN STORY@tvNStory.kr@https://i.imgur.com/zy0bmH6.png@,tvN Story,tvN스토리,tvN STORY,
+tvN스토리@tvNStory.kr@https://i.imgur.com/zy0bmH6.png@,tvN Story,tvN스토리,tvN STORY,
 UHD Dream TV@UHDDreamTV.kr@https://i.imgur.com/rLBzvmw.png@,UHD Dream TV,
 UXN@UXN.kr@https://i.imgur.com/oGruvjy.png@,UXN,
 Viki@Viki.kr@https://i.imgur.com/w6zInZz.png@,Viki,
