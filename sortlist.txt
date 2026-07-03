@@ -79,7 +79,7 @@ ENA Sports@ENA Sports@https://yt3.googleusercontent.com/cnfntt7TgR_oB2LJQhuS1eg0
 ETV@ETV.kr@https://i.imgur.com/nE9LokP.png@,ETV,
 Fashion N@FashionN.kr@https://i.imgur.com/hQbMozI.png@,Fashion N,
 FGTV@FGTV.kr@https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png@,FGTV,
-Fishing TV@FishingTV.kr@https://i.imgur.com/HpPeCNO.png@,Fishing TV,
+FTV@FishingTV.kr@https://i.imgur.com/HpPeCNO.png@,Fishing TV,FTV,
 Food TV@FoodTV.kr@https://i.imgur.com/E0W1M4H.png@,Food TV,
 FTV@FTV.kr@https://i.imgur.com/VLsGJ1x.png@,FTV,
 Fun TV@FunTV.kr@https://i.imgur.com/9rfo7O3.png@,Fun TV,
