@@ -278,7 +278,7 @@ SPOTV Prime+@SPOTV PRIME+.kr@https://iptv-epg.org/images/V_B6BWtk86t2bXKR1Xex2V6
 STATV@STATV.kr@https://i.imgur.com/Ou8Nxxq.png@,STATV,
 상생TV@STB.kr@https://i.imgur.com/MTGJD0m.png@,STB,상생방송,상생TV,
 TBS eFM@TBSeFM.kr@https://tbs.seoul.kr/common/images/gnb/logo.png@,TBS eFM,
-TBS TV@TBSTV.kr@https://i.imgur.com/iOnWS6V.png@,TBS TV,TBS,
+TBS@TBSTV.kr@https://i.imgur.com/iOnWS6V.png@,TBS TV,TBS,
 Telenovela@Telenovela.kr@https://i.imgur.com/yuAXFmk.png@,Telenovela,
 THE K-POP@THEKPOP.kr@https://mir-s3-cdn-cf.behance.net/projects/404/a207fe126976299.Y3JvcCwxNzgyLDEzOTQsMzkyLDEyNw.png@,THE K-POP,
 The Movie@TheMovie.kr@https://i.imgur.com/Rsunizo.png@,The Movie,
