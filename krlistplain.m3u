@@ -349,8 +349,8 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="KPOP.kr" tvg-logo="https://backup.760515.xyz/logo/SBS KPOP.png" group-title="",SBS KPOP
+https://tvlive.sbs.co.kr/sbskpop/sbskpop1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMwOTgwMjgsInBhdGgiOiIvc2Jza3BvcDEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI2NWI0NGEzZC1hNjBlLTQ5MTUtOWE0NS0xZjFmM2ZiYmM3NTciLCJpYXQiOjE3ODMwOTA4Mjh9.py5SLa9hR1qUVPLJsXJsgu3oGaVXaJYBzh0LZ9VMsLw
 #EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="",국악방송
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="아리랑 TV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="",아리랑TV
