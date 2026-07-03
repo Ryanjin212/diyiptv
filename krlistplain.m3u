@@ -152,14 +152,14 @@ http://suhoangel.me:9981/stream/channelid/116648661?ticket=52C915A480B311E48E933
 
 
 
-#EXTINF:-1 tvg-name="SBS News" tvg-logo="https://play-lh.googleusercontent.com/ehfSPqz76qx6UdMGadjH2dJylaOAFD4iVnFz6E6N2kO_pwRHi9e5d7CbY0A3G1ml6qs" group-title="News & Information",SBS News
+#EXTINF:-1 tvg-name="SBS News" tvg-logo="https://play-lh.googleusercontent.com/ehfSPqz76qx6UdMGadjH2dJylaOAFD4iVnFz6E6N2kO_pwRHi9e5d7CbY0A3G1ml6qs" group-title="",SBS News
 https://tving-live-o2-xcdn.tving.com/o2/v1/019b974ed45e153d78651307e41e33/019b97555b3a153d78651307e41e38/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODEzNTI4NDksInBhdGgiOiIvbzIifQ.xh9_KdsMjbbGrJnu5bKcJ-ciTLSG34yDILb16nTGYb0
 
-#EXTINF:-1 tvg-name="MBN News" tvg-logo="https://iptv-epg.org/images/vqJcfsQuIktjWXVU00rkc8DfuTp4CJk40qRFLohcwXM5HXVpcevyYC7Hjt9tueQIQHRqUpzIAFb2Itz9vCUS82pO7-_cNhDAWH9w" group-title="News & Information",MBN News
+#EXTINF:-1 tvg-name="MBN News" tvg-logo="https://iptv-epg.org/images/vqJcfsQuIktjWXVU00rkc8DfuTp4CJk40qRFLohcwXM5HXVpcevyYC7Hjt9tueQIQHRqUpzIAFb2Itz9vCUS82pO7-_cNhDAWH9w" group-title="",MBN News
 https://tving-live-o2-xcdn.tving.com/o2/v1/019b8ccb7875153d78653848a01248/019b8cebaab8153d78653848a0124b/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODEzNTI5NjgsInBhdGgiOiIvbzIifQ.tMoAzztLKwcz0kmlWanxZNbvhUnTu6yFVqQEi-n3uPQ
 
 
-#EXTINF:-1 tvg-name="JTBC News" tvg-logo="https://play-lh.googleusercontent.com/S8X_ZUKgJCrlf1ihLTXIqodbA0V2m-FPIKlmMdV-z5qmKpLSbmFViUIo4CUnGknx47I" group-title="News & Information",JTBC News
+#EXTINF:-1 tvg-name="JTBC News" tvg-logo="https://play-lh.googleusercontent.com/S8X_ZUKgJCrlf1ihLTXIqodbA0V2m-FPIKlmMdV-z5qmKpLSbmFViUIo4CUnGknx47I" group-title="",JTBC News
 https://tving-live-o2-skcdn.tving.com/o2/v1/019bf8af365e153d78652a264b9f3f/019bf8afd0fe153d78652a264b9f42/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxMzUyOTIxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=YzUtDtMuvueCY1h5WyLr2ncTIpXdVpcplPDb46RMZzipVy2kEpwbcIp6KDpaY3sugLY9mqiy9UVgeH44~ZPb-WiThFJxxhfRWqbCrc2FAu3GFDqTQy3Xw3GDsMkWLG4kfw7cc~j~GpZ8DXqZ-ZwjEyRYCd7a3KRbbtT6iXTIowzl9YJea4LaxyJonHec0RINFWB6wNLUsUgY~9Q4la8idoptk2VfhLhfnyBrYem6XUxV1mC8x7GO112uGWaI5f5KRQthCZ2xJGqhK8H6mL54ORe9hDprtVB2rEUza7ogYt8Q6Ds42A-m4Ry48HD4La7pjkDty5Jk984xzFHRe0LZQg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 
 
@@ -174,7 +174,7 @@ http://210.92.207.38:40001
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 
 
-#EXTINF:-1 tvg-id="YTN2.kr" tvg-name="YTN2" tvg-logo="https://i.imgur.com/g6Nhwmb.png" group-title="News & Information",YTN2
+#EXTINF:-1 tvg-id="YTN2.kr" tvg-name="YTN2" tvg-logo="https://i.imgur.com/g6Nhwmb.png" group-title="",YTN2
 https://tving-live-o2-xcdn.tving.com/o2/v1/0198ee7226d21eb80e7929b1a2cc44/0198ef058f1b1eb80e7929b1a2cc4a/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODEzNTI5MjgsInBhdGgiOiIvbzIifQ.VsB1MLgOrnpSEJzsp7TKBiIPQEPxhFyUcZtc7UNbDmU
 
 
@@ -192,7 +192,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
 
 #EXTINF:-1 tvg-id="KBSNews.kr" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png" group-title="",KBS NEWS 24
 http://kr.kbstream.dpdns.org/kr.php?id=1_5FA37789
-#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/960px-KBS_DRAMA.svg.png" group-title="Series",KBS드라마
+#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/960px-KBS_DRAMA.svg.png" group-title="",KBS드라마
 http://kr.kbstream.dpdns.org/kr.php?id=2_02F85E1F
 #EXTINF:-1 tvg-id="KBSLIFE.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/960px-KBS_Life.svg.png" group-title="",KBS Life
 http://kr.kbstream.dpdns.org/kr.php?id=5_606FFDED
@@ -202,20 +202,20 @@ http://kr.kbstream.dpdns.org/kr.php?id=3_39C33D26
 http://kr.kbstream.dpdns.org/kr.php?id=4_084D1308
 #EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/960px-KBS_kids.svg.png" group-title="",KBS Kids
 http://kr.kbstream.dpdns.org/kr.php?id=6_970B6159
-#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="Series",KBS World
+#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="",KBS World
 http://kr.kbstream.dpdns.org/kr.php?id=7_A9D3B425
 
 
 
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-name="MBC America" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="",MBC America
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
-#EXTINF:-1 tvg-id="MBCM.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MBC_M_logo.svg" group-title="Series",MBC M
+#EXTINF:-1 tvg-id="MBCM.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MBC_M_logo.svg" group-title="",MBC M
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
-#EXTINF:-1 tvg-id="MBCM.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MBC_M_logo.svg" group-title="Series",MBC M
+#EXTINF:-1 tvg-id="MBCM.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MBC_M_logo.svg" group-title="",MBC M
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
-#EXTINF:-1 tvg-id="MBCON.kr" tvg-logo="https://i.imgur.com/AQzgnKD.png" group-title="Series",MBC ON
+#EXTINF:-1 tvg-id="MBCON.kr" tvg-logo="https://i.imgur.com/AQzgnKD.png" group-title="",MBC ON
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_246_6CC6492A.m3u8
-#EXTINF:-1 tvg-id="MBC드라마.kr" tvg-logo="https://i.imgur.com/Q20rqnX.png" group-title="Series",MBC드라마넷
+#EXTINF:-1 tvg-id="MBC드라마.kr" tvg-logo="https://i.imgur.com/Q20rqnX.png" group-title="",MBC드라마넷
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_8F4B0879.m3u8
 #EXTINF:-1 tvg-id="MBCEvery1.kr" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="Entertainment",MBC Every1
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_07429BC5.m3u8
@@ -368,7 +368,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 
 
 
-#EXTINF:-1 tvg-id="YTN사이언스.kr" tvg-name="YTN Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png/960px-YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png" group-title="News & Information",YTN Science
+#EXTINF:-1 tvg-id="YTN사이언스.kr" tvg-name="YTN Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png/960px-YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png" group-title="",YTN Science
 https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8e7befe153d7865157cdbfbdd/019dd8e85ec7153d7865157cdbfbe0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODEzNTI5MzEsInBhdGgiOiIvbzIifQ.hu3G2IIgyED8PMdDekzlNztsPDWfUFO6M6ruCNL67-c
 
 #EXTINF:-1 tvg-id="OUN" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="",OUN
@@ -524,7 +524,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_527_C6413288.m3u8
 #EXTINF:-1 tvg-id="한국경제TV.kr" tvg-logo="https://i.imgur.com/fGQatSH.png" group-title="",한국경제TV
 http://jm14.modhospital.kr:9981/stream/channelid/90?ticket=347ECF44D911E243FEF1FFC70322F1674CBE3783
 
-#EXTINF:-1 tvg-id="매일경제TV.kr" tvg-name="MBN Money TV" tvg-logo="https://i.ytimg.com/vi/s9xL1DpBsfQ/hq720.jpg" group-title="News & Information",MBN Money TV
+#EXTINF:-1 tvg-id="매일경제TV.kr" tvg-name="MBN Money TV" tvg-logo="https://i.ytimg.com/vi/s9xL1DpBsfQ/hq720.jpg" group-title="",MBN Money TV
 http://mmoney.flive.skcdn.com/mmoneymobile/smil:money.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="채널i.kr" tvg-name="채널i" tvg-logo="https://i.imgur.com/QMDDHd1.gif" group-title="Financial",채널i
@@ -562,7 +562,7 @@ https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 http://112.175.51.214:1935/live/myStream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="히스토리.kr" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="News & Information",History
+#EXTINF:-1 tvg-id="히스토리.kr" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="",History
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d668d94731eb80e796d9bd9cae/019d668e57a61eb80e796d9bd9cb1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODEzNTI5OTMsInBhdGgiOiIvbzIifQ.gpQ0fwn6ALlwipjHdY5jpxjmwc55lSbXOOtfdohiGeQ
 
 
@@ -572,7 +572,7 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019d668d94731eb80e796d9bd9cae/019d668
 #EXTINF:-1 tvg-id="NHK WORLD-JAPAN.kr" tvg-name="NHK World" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="",NHK World
 http://124.222.153.240/kakaotv/get_channel.php?channel=nhk_world#.m3u8
 
-#EXTINF:-1 tvg-name="News Today" tvg-logo="https://d2gpx7np84fwh1.cloudfront.net/media-io/2025/5/22/02NewsToday_logo.44f.9e6d94e2.png?width=384" group-title="News & Information",News Today
+#EXTINF:-1 tvg-name="News Today" tvg-logo="https://d2gpx7np84fwh1.cloudfront.net/media-io/2025/5/22/02NewsToday_logo.44f.9e6d94e2.png?width=384" group-title="",News Today
 https://amg01923-amg01923c84-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c84-amgplt0187/playlist.m3u8
 
 
