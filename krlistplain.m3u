@@ -544,7 +544,7 @@ https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_427_0358FD4E.m3u8
 #EXTINF:-1 tvg-id="한국직업방송" tvg-logo="https://i.imgur.com/Y5Zg5SR.png" group-title="",직업방송
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m301.m3u8
-#EXTINF:-1 tvg-id="NHTV.kr" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="",NHTV농협방송
+#EXTINF:-1 tvg-id="NHTV.kr" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="",NHTV
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 
 
