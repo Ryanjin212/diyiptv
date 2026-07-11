@@ -573,7 +573,7 @@ https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:iptvcat.
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STB상생방송.kr" tvg-logo="https://i.imgur.com/MTGJD0m.png" group-title="",상생TV
-https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+http://jm14.modhospital.kr:9981/stream/channelid/13?ticket=750798729C0A3461578E6478EE7A9E85E37D72BD
 
 #EXTINF:-1 tvg-id="C채널.kr" tvg-logo="https://i.ibb.co/GC73Fxt/logo.png" group-title="",C채널
 http://112.175.51.214:1935/live/myStream/playlist.m3u8
