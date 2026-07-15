@@ -593,64 +593,64 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=nhk_world#.m3u8
 https://amg01923-amg01923c84-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c84-amgplt0187/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="경인KBS1" tvg-logo="https://i.imgur.com/V4fZzFJ.png" group-title="",KBS경인
+#EXTINF:-1 tvg-id="경인 KBS1.kr"  tvg-name="경인KBS1" tvg-logo="https://i.imgur.com/V4fZzFJ.png" group-title="",KBS경인
 http://mdlstay.com:9981/stream/channelid/217809681?
-#EXTINF:-1 tvg-id="KBS1.kr" tvg-name="광주KBS1" tvg-logo="https://i.imgur.com/OHHrLqv.png" group-title="",KBS광주
+#EXTINF:-1 tvg-id="광주 KBS1.kr" tvg-name="광주KBS1" tvg-logo="https://i.imgur.com/OHHrLqv.png" group-title="",KBS광주
 http://kr.kbstream.dpdns.org/kr.php?id=12_7066CF5A
-#EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="대구KBS1" tvg-logo="https://i.imgur.com/EMVWCh0.png" group-title="",KBS대구
+#EXTINF:-1 tvg-id="대구 KBS1.kr"  tvg-name="대구KBS1" tvg-logo="https://i.imgur.com/EMVWCh0.png" group-title="",KBS대구
 http://kr.kbstream.dpdns.org/kr.php?id=13_B4E209CA
-#EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="대전KBS1" tvg-logo="https://i.imgur.com/co5JP79.png" group-title="",KBS대전
+#EXTINF:-1 tvg-id="대전 KBS1.kr"  tvg-name="대전KBS1" tvg-logo="https://i.imgur.com/co5JP79.png" group-title="",KBS대전
 http://kr.kbstream.dpdns.org/kr.php?id=11_087155E9
-#EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="울산KBS1" tvg-logo="https://i.imgur.com/uKLgVLZ.png" group-title="",KBS울산
+#EXTINF:-1 tvg-id="울산 KBS1.kr"  tvg-name="울산KBS1" tvg-logo="https://i.imgur.com/uKLgVLZ.png" group-title="",KBS울산
 http://kr.kbstream.dpdns.org/kr.php?id=14_ECE1A251
-#EXTINF:-1 tvg-id="KBS1.kr"  tvg-name="부산KBS1" tvg-logo="https://i.imgur.com/2f6W60P.png" group-title="",KBS부산
+#EXTINF:-1 tvg-id="부산 KBS1.kr"  tvg-name="부산KBS1" tvg-logo="https://i.imgur.com/2f6W60P.png" group-title="",KBS부산
 http://kr.kbstream.dpdns.org/kr.php?id=15_6B9253F0
 
 
-#EXTINF:-1 tvg-id="MBC.kr" tvg-name="강원영동MBC" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="",MBC강원영동
+#EXTINF:-1 tvg-id="MBC 강원영동.kr" tvg-name="강원영동MBC" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="",MBC강원영동
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-name="춘천MBC" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="",MBC춘천
+#EXTINF:-1 tvg-id="춘천 MBC.kr" tvg-name="춘천MBC" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="",MBC춘천
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_5_2EF185C8.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-name="춘천MBC" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="",MBC춘천
+#EXTINF:-1 tvg-id="춘천 MBC.kr" tvg-name="춘천MBC" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="",MBC춘천
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-name="여수MBC" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="",MBC여수
+#EXTINF:-1 tvg-id="여수 MBC.kr" tvg-name="여수MBC" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="",MBC여수
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC.kr"  tvg-name="광주MBC"  tvg-logo="https://i.imgur.com/wmGJgYh.png" group-title="",MBC광주
+#EXTINF:-1 tvg-id="광주 MBC.kr"  tvg-name="광주MBC"  tvg-logo="https://i.imgur.com/wmGJgYh.png" group-title="",MBC광주
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-name="경남MBC" tvg-logo="https://i.imgur.com/Ronb1JP.png" group-title="",MBC경남
+#EXTINF:-1 tvg-id="MBC 경남.kr" tvg-name="경남MBC" tvg-logo="https://i.imgur.com/Ronb1JP.png" group-title="",MBC경남
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_781A50DD.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-name="대전MBC" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="",MBC대전
+#EXTINF:-1 tvg-id="대전 MBC.kr" tvg-name="대전MBC" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="",MBC대전
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_5_35B40960.m3u8
 
-#EXTINF:-1 tvg-id="MBC.kr" tvg-name="충북MBC" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="",MBC충북
+#EXTINF:-1 tvg-id="MBC 충북.kr" tvg-name="충북MBC" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="",MBC충북
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-name="목포MBC" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="",MBC목포
+#EXTINF:-1 tvg-id="목포 MBC.kr" tvg-name="목포MBC" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="",MBC목포
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-name="대전MBC" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="",MBC대전
+#EXTINF:-1 tvg-id="대전 MBC.kr" tvg-name="대전MBC" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="",MBC대전
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-name="제주MBC" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="",MBC제주
+#EXTINF:-1 tvg-id="제주 MBC.kr" tvg-name="제주MBC" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="",MBC제주
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_D2736659.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-name="대구MBC" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="",MBC대구
+#EXTINF:-1 tvg-id="대구 MBC.kr" tvg-name="대구MBC" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="",MBC대구
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_2758F434.m3u8
 
 
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="CJB SBS" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="",SBS CJB
+#EXTINF:-1 tvg-id="CJB 청주방송.kr" tvg-name="CJB SBS" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="",SBS CJB
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_8_5706648C.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="CJB SBS" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="",SBS CJB
+#EXTINF:-1 tvg-id="CJB 청주방송.kr" tvg-name="CJB SBS" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="",SBS CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="JIBS SBS" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="",SBS JIBS
+#EXTINF:-1 tvg-id="JIBS 제주방송.kr" tvg-name="JIBS SBS" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="",SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="UBC SBS" tvg-logo="https://i.imgur.com/BBCoqIf.png" group-title="",SBS UBC
+#EXTINF:-1 tvg-id="UBC 울산방송.kr" tvg-name="UBC SBS" tvg-logo="https://i.imgur.com/BBCoqIf.png" group-title="",SBS UBC
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="KBC SBS" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="",SBS KBC
+#EXTINF:-1 tvg-id="KBC 광주방송.kr" tvg-name="KBC SBS" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="",SBS KBC
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="G1 SBS" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="",SBS G1
+#EXTINF:-1 tvg-id="G1 방송.kr" tvg-name="G1 SBS" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="",SBS G1
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="JTV SBS" tvg-logo="https://i.imgur.com/byss0Ld.png" group-title="",SBS JTV
+#EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="JTV SBS" tvg-logo="https://i.imgur.com/byss0Ld.png" group-title="",SBS JTV
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="KNN SBS" tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="",SBS KNN
+#EXTINF:-1 tvg-id="KNN 부산경남방송.kr" tvg-name="KNN SBS" tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="",SBS KNN
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="TBC SBS" tvg-logo="https://i.imgur.com/jknoVmp.png" group-title="",SBS TBC
+#EXTINF:-1 tvg-id="TBC 대구방송.kr" tvg-name="TBC SBS" tvg-logo="https://i.imgur.com/jknoVmp.png" group-title="",SBS TBC
 http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
 
 
