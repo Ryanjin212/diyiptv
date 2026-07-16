@@ -38,7 +38,7 @@ http://kr.kbstream.dpdns.org/kr.php?id=31_0B41417D
 
 
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://imgur.com/fCruRmS.png" group-title="",JTBC
-https://jmp2.uk/stvp-KR2200003VB
+http://jm14.modhospital.kr:9981/stream/channelid/32?ticket=51179F201A0F3C56FE221990374EBD20AE3B4299
 #EXTINF:-1 tvg-id="JTBC2.kr" tvg-logo="https://i.imgur.com/kljWkXS.png" group-title="",JTBC2
 https://jmp2.uk/stvp-KR3600001J9
 #EXTINF:-1 tvg-id="JTBC4.kr" tvg-logo="https://i.imgur.com/dgIXpHS.png" group-title="",JTBC4
