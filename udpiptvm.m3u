@@ -273,19 +273,19 @@ http://192.168.50.1:7575/udp/239.49.0.148:8000
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/卡酷少儿.png" group-title="卡通频道", 卡酷少儿
 http://192.168.50.1:7575/udp/239.49.8.39:8000
 
-#EXTINF:-1, 中国天气
+#EXTINF:-1 tvg-id="中国天气" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/中国天气.png" group-title="其他频道", 中国天气
 http://192.168.50.1:7575/udp/239.49.0.94:8000
 
-#EXTINF:-1, 东方财经
+#EXTINF:-1 tvg-id="东方财经" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方财经.png" group-title="其他频道",  东方财经
 http://192.168.50.1:7575/udp/239.49.0.95:8000
 
-#EXTINF:-1, 法治天地
+#EXTINF:-1 tvg-id="法治天地" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/法治天地.png" group-title="其他频道",  法治天地
 http://192.168.50.1:7575/udp/239.49.0.96:8000
 
-#EXTINF:-1, 生活时尚
+#EXTINF:-1 tvg-id="生活时尚" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/生活时尚.png" group-title="其他频道",  生活时尚
 http://192.168.50.1:7575/udp/239.49.0.97:8000
 
-#EXTINF:-1, 都市剧场
+#EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/都市剧场.png" group-title="其他频道",  都市剧场
 http://192.168.50.1:7575/udp/239.49.0.99:8000
 
 
@@ -293,25 +293,25 @@ http://192.168.50.1:7575/udp/239.49.0.99:8000
 
 
 
-#EXTINF:-1, 快乐垂钓
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/快乐垂钓.png" group-title="其他频道",  快乐垂钓
 http://192.168.50.1:7575/udp/239.49.0.114:8000
 
 
 
-#EXTINF:-1, 梨园
+#EXTINF:-1 tvg-id="梨园" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/梨园.png" group-title="其他频道",  梨园
 http://192.168.50.1:7575/udp/239.49.8.193:8000
 
-#EXTINF:-1, 武术世界
+#EXTINF:-1 tvg-id="武术世界" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/武术世界.png" group-title="其他频道",  武术世界
 http://192.168.50.1:7575/udp/239.49.0.205:8000
 
-#EXTINF:-1, 文物宝库
+#EXTINF:-1 tvg-id="文物宝库" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/文物宝库.png" group-title="其他频道",  文物宝库
 http://192.168.50.1:7575/udp/239.49.0.209:8000
 
-#EXTINF:-1, 睛彩篮球
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/睛彩篮球.png" group-title="其他频道",  睛彩篮球
 http://192.168.50.1:7575/udp/239.49.8.42:8000
 
-#EXTINF:-1, 睛彩青少
+#EXTINF:-1 tvg-id="睛彩青少" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/睛彩青少.png" group-title="其他频道",  睛彩青少
 http://192.168.50.1:7575/udp/239.49.8.46:8000
 
-#EXTINF:-1, 睛彩广场舞
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/睛彩广场舞.png" group-title="其他频道",  睛彩广场舞
 http://192.168.50.1:7575/udp/239.49.8.64:8000
