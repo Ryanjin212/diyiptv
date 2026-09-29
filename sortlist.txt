@@ -166,7 +166,7 @@ K쇼핑@KShopping.kr@https://i.imgur.com/Tmb3xK8.png@,K Shopping,K쇼핑,
 K-Baduk@KBaduk.kr@https://i.imgur.com/bpLcGKI.png@,K-Baduk,
 K star@KStar.kr@https://i.imgur.com/VzFNa9X.png@,K-Star,K star,
 KBS1@KBS1TV.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/960px-KBS_1_logo.svg.png@,KBS 1TV,KBS1,KBS 1，
-KBS2@KBS2TV.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/960px-KBS_2_logo.svg.png@,KBS 2TV,KBS2,KBS 2，
+KBS2@KBS2TV.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/960px-KBS_2_logo.svg.png@,KBS 2TV,KBS2,KBS 2,
 KBS드라마@KBSDrama.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/960px-KBS_DRAMA.svg.png@,KBS Drama,KBS드라마,
 KBS JOY@KBSJoy.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/960px-KBS_JOY.svg.png@,KBS Joy,KBS JOY,
 KBS Kids@KBSKids.kr@https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/960px-KBS_kids.svg.png@,KBS Kids,
