@@ -1,3 +1,4 @@
+
 <?php
 // 设置响应头为 M3U 播放列表格式
 header('Content-Type: audio/x-mpegurl');
@@ -23,7 +24,6 @@ $lines = explode("\n", $content);
 
 
 $sortlist = curl_init("https://raw.githubusercontent.com/Ryanjin212/diyiptv/refs/heads/main/sortlist.txt");
-
 curl_setopt($sortlist, CURLOPT_HTTPHEADER, $headers);
 curl_setopt($sortlist, CURLOPT_RETURNTRANSFER, 1);
 $sortlistcontent = curl_exec($sortlist);
@@ -31,6 +31,11 @@ curl_close($sortlist);
 $sortlistlines = explode("\n", $sortlistcontent);
 
 
+$epglist = curl_init("https://raw.githubusercontent.com/Ryanjin212/diyiptv/refs/heads/main/krepg.txt");
+curl_setopt($epglist, CURLOPT_HTTPHEADER, $headers);
+curl_setopt($epglist, CURLOPT_RETURNTRANSFER, 1);
+$epg = curl_exec($epglist);
+curl_close($epglist);
 
 
 
@@ -41,6 +46,8 @@ foreach ($lines as $line) {
 	
     if (empty($line)) continue;
 
+
+	
     // 假设你的 PHP 源码输出格式为：频道名称,播放链接
     if (strpos($line, ',') !== false) {
 		
@@ -50,9 +57,9 @@ $namekey=",".trim($name).",";
 foreach ($sortlistlines as $line2) {
     if (str_contains($line2, $namekey)) {   // 行里包含 ",频道名,"
 
-		echo "\n-----------".$line2."---------\n";
+
 $namekey=",".trim($name).",";
-		echo "\n-----------".$namekey."---------\n";
+
 										 
         list($name, $id, $png) = explode('@', $line2, 4);
         break;   // 找到就停
@@ -81,7 +88,11 @@ else{ $genre="";}
  
 	echo "#EXTINF:-1 tvg-id=\"$id\" tvg-logo=\"$png\" group-title=\"$genre\" ," . trim($name). "\n";
 	
-}
+}else if(str_contains($line, "#EXTM3U"))
+	{
+	echo "#EXTM3U url-tvg=\"".trim($epg)."\"";
+		echo  "\n";
+	}
 	else{ echo $line . "\n";}
 		
 }
