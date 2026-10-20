@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://epg.aptv.app/pp.xml.gz"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://raw.githubusercontent.com/Ryanjin212/zuboiptv/refs/heads/main/newudp.m3u
+
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道", CCTV-1综合
 http://192.168.50.1:7575/udp/239.49.8.19:9614
