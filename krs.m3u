@@ -7,7 +7,7 @@
 http://kr.kbstream.dpdns.org/kr.php?id=1_EA49B3B2
 
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="SBS" tvg-logo="https://i.imgur.com/QLU1hem.png" group-title="General",SBS
-http://kr.kbstream.dpdns.org/kr.php?id=31_0B41417D
+http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="JIBS SBS" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="General",SBS|JIBS
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="KBC SBS" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="General",SBS|KBC
